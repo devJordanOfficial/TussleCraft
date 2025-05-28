@@ -865,11 +865,6 @@ hash = "d7df242deaaff7012e76a18e240e32467172ef4f9c010526ce4e01920acdb669"
 metafile = true
 
 [[files]]
-file = "mods/toms-create-storage.pw.toml"
-hash = "11753e7da05bc5a4cb037070281d1898b021f1d5419cb2c8477f960032b17c0f"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "131c818cca79586fdca0535062a63581e7c438efd108be4403ab8faea92e6368"
 metafile = true
@@ -912,4 +907,9 @@ metafile = true
 [[files]]
 file = "mods/vminus.pw.toml"
 hash = "1bb99f86c3352e98cddc7609347eee315fa387d84b5148166505ad212408d116"
+metafile = true
+
+[[files]]
+file = "resourcepacks/toms-create-storage.pw.toml"
+hash = "11753e7da05bc5a4cb037070281d1898b021f1d5419cb2c8477f960032b17c0f"
 metafile = true
