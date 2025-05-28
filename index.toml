@@ -250,10 +250,6 @@ hash = "154e0426112d9d1493fc11201e7b419eddb77911390b303aa0b1f11a832846cf"
 metafile = true
 
 [[files]]
-file = "mods/createbigcannons-5.9.0-dev-mc.1.20.1-forge-build.180.jar"
-hash = "7b69dc352537e03a2a1843c58cbc1c50d803e41587e33a491496984fea92a01e"
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
