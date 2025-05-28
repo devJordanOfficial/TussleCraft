@@ -5,6 +5,10 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "091b37c140ed77b0a4253d371fd98506a98fa97d6035f0aeed8118e9c21fc9b1"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
