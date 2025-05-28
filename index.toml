@@ -25,11 +25,6 @@ hash = "0a01a0be766ccb1492c1d0a5dd3b315ef455862ee68c578bd01cbcf71d7058eb"
 metafile = true
 
 [[files]]
-file = "mods/animated-doors.pw.toml"
-hash = "47f4e44c537bf0b6983ef8d40d67a455f6aea8ac53ffb90218cc1a5d6d64f255"
-metafile = true
-
-[[files]]
 file = "mods/anvians-lib.pw.toml"
 hash = "4dbcdbf9a4d1e1bab6fe7c66c549fc738bb4206f46846976381db9104fc16ab7"
 metafile = true
@@ -251,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/createbigcannons.pw.toml"
-hash = "34d0c896ec6ceb76a55a6d0ed6098dc7f9c72dc2a976600fc5bc16926a70c0cb"
+hash = "6ea6ab62ec37c5a53967e085d38449e28386e9d3bd41168bd6786cf9b07a1a39"
 metafile = true
 
 [[files]]
@@ -870,6 +865,11 @@ hash = "d7df242deaaff7012e76a18e240e32467172ef4f9c010526ce4e01920acdb669"
 metafile = true
 
 [[files]]
+file = "mods/toms-create-storage.pw.toml"
+hash = "11753e7da05bc5a4cb037070281d1898b021f1d5419cb2c8477f960032b17c0f"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "131c818cca79586fdca0535062a63581e7c438efd108be4403ab8faea92e6368"
 metafile = true
@@ -912,14 +912,4 @@ metafile = true
 [[files]]
 file = "mods/vminus.pw.toml"
 hash = "1bb99f86c3352e98cddc7609347eee315fa387d84b5148166505ad212408d116"
-metafile = true
-
-[[files]]
-file = "resourcepacks/animated-door.pw.toml"
-hash = "031a54437d0ac582056ff190637d37530b33f0e7e3f0478b4391b2df8d7b0fb2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/toms-create-storage.pw.toml"
-hash = "cb07cd8b668029d940550ab404fa49e55df84b0f0be5bd377efaf462dbc6b9cb"
 metafile = true

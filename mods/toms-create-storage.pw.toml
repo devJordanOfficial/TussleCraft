@@ -1,0 +1,7 @@
+name = "toms-create-storage"
+filename = "Create+Simple+Storage+2.1.zip"
+
+[download]
+url = "https://www.infamousgc.com/files/tusslecraft/Create+Simple+Storage+2.1.zip"
+hash-format = "sha256"
+hash = "0d94a365332342ed54c9bfb64731328ecfcf57e4554631cb98cde4b1033420d6"

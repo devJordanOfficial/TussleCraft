@@ -2,6 +2,6 @@ name = "CreateBigCannons"
 filename = "createbigcannons-5.9.0-dev-mc.1.20.1-forge-build.180.jar"
 
 [download]
-url = "https://www.infamousgc.com/files/createbigcannons-5.9.0-dev-mc.1.20.1-forge-build.180.jar"
+url = "https://www.infamousgc.com/files/tusslecraft/createbigcannons-5.9.0-dev-mc.1.20.1-forge-build.180.jar"
 hash-format = "sha256"
 hash = "7b69dc352537e03a2a1843c58cbc1c50d803e41587e33a491496984fea92a01e"
