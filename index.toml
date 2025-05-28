@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "091b37c140ed77b0a4253d371fd98506a98fa97d6035f0aeed8118e9c21fc9b1"
+hash = "59a51e03bb1790634e1247cec293a0ce7be422df090b8e969502b86eb181d3d6"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -176,11 +176,6 @@ metafile = true
 [[files]]
 file = "mods/combat-nouveau.pw.toml"
 hash = "edc2e3529690c08648a94d72876f0d2fa99f0d3b8f08a4338a9d3fe7834cfc79"
-metafile = true
-
-[[files]]
-file = "mods/comforts.pw.toml"
-hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
@@ -669,11 +664,6 @@ hash = "d8bade3bf5ab82d9b3f185bff6c5630cfa4319f331c12d0b6ee226d65eb8b345"
 metafile = true
 
 [[files]]
-file = "mods/nimble.pw.toml"
-hash = "7efe1119d5db6a0737a3ab5d34c9d827d7ad485cf489fd6076d69611597e95fa"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "f16fd7fba2242ba733897eeaaa09cb27e01a438d240e175a26c956319f8a1561"
 metafile = true
@@ -706,11 +696,6 @@ metafile = true
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
 hash = "604edd7e35da63507548276e57328d2f066fd2c58184f11b7605d2ee49bd5b42"
-metafile = true
-
-[[files]]
-file = "mods/passable-foliage.pw.toml"
-hash = "051c791539eea4ca61799d8a99738dc062978ef8ae47e08e452fb3c77262aeff"
 metafile = true
 
 [[files]]

@@ -2,14 +2,16 @@
   "schema_version": "2",
 
   "default_packs": [
-    "file/Create+Simple+Storage+2.1.zip"
+    "file/Create+Simple+Storage+2.1.zip",
+    "builtin/add_pack_finders_test"
   ],
 
   "pack_overrides": {
     "required": [
       "Moonlight Mods Dynamic Assets",
       "mod_resources",
-      "file/Create+Simple+Storage+2.1.zip"
+      "file/Create+Simple+Storage+2.1.zip",
+      "builtin/add_pack_finders_test"
     ],
     "$$required": {
       "required": true,
