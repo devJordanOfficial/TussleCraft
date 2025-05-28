@@ -918,8 +918,3 @@ metafile = true
 file = "resourcepacks/animated-door.pw.toml"
 hash = "031a54437d0ac582056ff190637d37530b33f0e7e3f0478b4391b2df8d7b0fb2"
 metafile = true
-
-[[files]]
-file = "resourcepacks/toms-create-storage.pw.toml"
-hash = "cb07cd8b668029d940550ab404fa49e55df84b0f0be5bd377efaf462dbc6b9cb"
-metafile = true
