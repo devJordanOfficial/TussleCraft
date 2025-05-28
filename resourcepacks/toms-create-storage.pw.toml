@@ -1,13 +1,13 @@
 name = "Tom's Create Storage"
-filename = "Create+Simple+Storage+Solid+GUI 1.1.zip"
+filename = "Create+Simple+Storage+2.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xGCng9FL/versions/hlDyUi8g/Create%2BSimple%2BStorage%2BSolid%2BGUI%201.1.zip"
+url = "https://cdn.modrinth.com/data/xGCng9FL/versions/xZXjTODa/Create%2BSimple%2BStorage%2B2.1.zip"
 hash-format = "sha512"
-hash = "725e9d829bc821ebd96ce8d3ee1491904d6ecf1f8fd77c3ff95dc27fd34d3b6323a5f6c20f98eeb02968196e496c06710a9fcb5b4050badf89ffc2a75175baa2"
+hash = "ccce0d62f9cde695c8529cc80d7ffa1ce414fa735aaf39c9650135a5a58508a8e2657ad60264ac9889189efef53dabeed6839cf7169b5f7ad886829d9da73d6a"
 
 [update]
 [update.modrinth]
 mod-id = "xGCng9FL"
-version = "hlDyUi8g"
+version = "xZXjTODa"
