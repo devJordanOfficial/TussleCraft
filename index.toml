@@ -284,6 +284,11 @@ hash = "95083b16bf6d75561e763911e12bf1d6e0fe62e244c82a48cb2ff18b75ec324f"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
+metafile = true
+
+[[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
 metafile = true
