@@ -250,6 +250,11 @@ hash = "154e0426112d9d1493fc11201e7b419eddb77911390b303aa0b1f11a832846cf"
 metafile = true
 
 [[files]]
+file = "mods/createbigcannons.pw.toml"
+hash = "34d0c896ec6ceb76a55a6d0ed6098dc7f9c72dc2a976600fc5bc16926a70c0cb"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
