@@ -1,0 +1,13 @@
+name = "Anvian's Lib"
+filename = "anvianslib-forge-1.20.1-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PuTjrq4T/versions/fn1GYSGS/anvianslib-forge-1.20.1-1.2.jar"
+hash-format = "sha512"
+hash = "aabed587c80e7544a21f96c05b6c52b071f95e00a5cabb09da9d7d0f70f977f160c4dcfe019edf99ce01a1affa1b2487bb3532f6a4f7bb3d823c501cd1e23b69"
+
+[update]
+[update.modrinth]
+mod-id = "PuTjrq4T"
+version = "fn1GYSGS"

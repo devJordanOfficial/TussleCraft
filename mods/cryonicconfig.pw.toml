@@ -1,0 +1,7 @@
+name = "cryonicconfig"
+filename = "cryonicconfig-forge-1.0.0+mc1.20.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/oEhQIkOs/versions/QWk3wFbj/cryonicconfig-forge-1.0.0%2Bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "51ffc8832eec0fce716ecab9cd148ca7408b63963a1728b06df45d8cfb2eb04a"

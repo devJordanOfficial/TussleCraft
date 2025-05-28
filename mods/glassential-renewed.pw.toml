@@ -1,0 +1,13 @@
+name = "Glassential Renewed (Fabric/NeoForge)"
+filename = "glassential-renewed-forge-1.20.1-2.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kc9FSsYx/versions/SBkUxlpc/glassential-renewed-forge-1.20.1-2.4.4.jar"
+hash-format = "sha512"
+hash = "820080785a0c598de9308207c0c04f34a9e55236b40c8dc92fa2f6c6869ba3031eeb05b69a73eefb2507efcde9277256228f1d9db08288bc1c5930bf46f53f7d"
+
+[update]
+[update.modrinth]
+mod-id = "kc9FSsYx"
+version = "SBkUxlpc"

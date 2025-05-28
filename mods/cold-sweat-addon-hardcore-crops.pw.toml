@@ -1,0 +1,13 @@
+name = "Cold sweat addon: Hardcore crops"
+filename = "cold-sweat-addon-hardcore-crops-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4dQ5VgF9/versions/u23uORgP/cold-sweat-addon-hardcore-crops-1.1.jar"
+hash-format = "sha512"
+hash = "8be9eec9dece20493243f86a779aa35935c9ef915748b91d1df5f9bc0681c5c3e5bbd1b77fe93bdceb0e905101a31ac8b65b2bfa0bf9c57ab703434cf73660e6"
+
+[update]
+[update.modrinth]
+mod-id = "4dQ5VgF9"
+version = "u23uORgP"
