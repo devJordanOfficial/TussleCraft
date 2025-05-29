@@ -1,0 +1,13 @@
+name = "Riding Partners：Reforged"
+filename = "riding_partners-forge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kpxhlt9n/versions/2WUzZnvi/riding_partners-forge-1.0.0.jar"
+hash-format = "sha512"
+hash = "1bf418985b2c68470e59033e0c1cb18f8eeeff33847d9e92872ce1bfcfab43c0780bce2222685b529592aa370baff08fb2462d9964f4faba44da0f3b1551d4ef"
+
+[update]
+[update.modrinth]
+mod-id = "Kpxhlt9n"
+version = "2WUzZnvi"

@@ -1,0 +1,13 @@
+name = "Sweety's Horse Armor Tweaks"
+filename = "sweetys_horse_armor_tweaks-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DrhNmq6H/versions/ufDJEH7F/sweetys_horse_armor_tweaks-1.20.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "cd4b468dae43f79a0eac72ee7fbd20df9c5f2a61802985be6dfa381aba368edc6fae8293b8e48569832283ff7303fe566b40af1a9ec25879dd7ef497c0588ce9"
+
+[update]
+[update.modrinth]
+mod-id = "DrhNmq6H"
+version = "ufDJEH7F"

@@ -14,11 +14,6 @@ hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
 
 [[files]]
-file = "mods/alekiships.pw.toml"
-hash = "f5aa2b8d76f3bf96459c11bf511475c4ee12647a3fea30e5d48beddd670499fd"
-metafile = true
-
-[[files]]
 file = "mods/allurement!.pw.toml"
 hash = "a4dba57fcce3f41ba52e3ab28343b3165f021d9d363c693bed73a476769b5a85"
 metafile = true
@@ -31,6 +26,16 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "0a01a0be766ccb1492c1d0a5dd3b315ef455862ee68c578bd01cbcf71d7058eb"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "f6cb39881349ebcd51d5ea8563110dd0fb861b66c18f7a261eabe1ef41563cd2"
+metafile = true
+
+[[files]]
+file = "mods/animal-armor-trims.pw.toml"
+hash = "8ee5b2e285cd2e4398ea9612bc11ea782197ff6ad5cc87127b1927b66047089e"
 metafile = true
 
 [[files]]
@@ -199,6 +204,16 @@ hash = "edc2e3529690c08648a94d72876f0d2fa99f0d3b8f08a4338a9d3fe7834cfc79"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "efa28f514aa344b6ff477d69f8666dbf644b0d2c1a16b754a6ec9026c07fb315"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
@@ -279,6 +294,11 @@ hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
 
 [[files]]
+file = "mods/creeper-no-break-blocks.pw.toml"
+hash = "04c8190de142c5ee7a8c6333b0005a18cca8fcf9062c9b7f5a212ecc022e8736"
+metafile = true
+
+[[files]]
 file = "mods/cryonicconfig.pw.toml"
 hash = "5ba1f7a67357718a3e683cb741d52deaa6017e4627380ba3614747ad13bfffb5"
 metafile = true
@@ -316,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "0bd3d604bc61c7460977b177bd9db979a6c235c55e8d1cd981dba1620ec80af8"
 metafile = true
 
 [[files]]
@@ -394,6 +419,11 @@ hash = "473489bb165ab775858cc475d8e9ae599e126bced1c73d17563e3459e4899719"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-ai.pw.toml"
+hash = "1c83a493d74dfdd1b1f44cccb82be775e1866cfe908d33b5421592cedebf87a3"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-hordes.pw.toml"
 hash = "fab637d56fc710f47c0a1419ac61aa29ef74140d191d34e5271e0c4275cd1bd1"
 metafile = true
@@ -419,6 +449,11 @@ hash = "634b5edbee20fe19a7a09cd4bc0b43fc98cff839fd9142bfb415c0aa57b3dc9a"
 metafile = true
 
 [[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "2db3a1221517a6d4344b7359463d115461844f12b001edd8d19395eecc12a7f3"
+metafile = true
+
+[[files]]
 file = "mods/fantasy_armor.pw.toml"
 hash = "c5069c5408626f51410f0768f7dd73ab9b989add693c6e5a9e029013a56066d8"
 metafile = true
@@ -434,6 +469,11 @@ hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
 metafile = true
 
 [[files]]
+file = "mods/farsighted-mobs.pw.toml"
+hash = "fe070f1c9916a21c0328eb6647270dc653d71e0d624999d5ede30edbf85a69f9"
+metafile = true
+
+[[files]]
 file = "mods/fast-item-frames.pw.toml"
 hash = "cd49f2a9dea9b2c973df1fef169950c0ae1910238884475d5b91527afeca6887"
 metafile = true
@@ -441,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "dc0d8e54793e901169ffe51e57e2c0e7ab0220ce92fc8ef141ba9dfe5ae12a6d"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "a828c60907bd972cb75263bce3bd6bacfb31b98ccb3d5556ad10c7be81258e5d"
 metafile = true
 
 [[files]]
@@ -544,6 +589,16 @@ hash = "bfe8e8ef61657bfc608211ceec3ba076813b6b534b31ab05c51d52fdbdaf6833"
 metafile = true
 
 [[files]]
+file = "mods/horse-combat-controls.pw.toml"
+hash = "c8b23ffe053bfe86635a96836392a1f4b413bd34ca57fb0b20f373e12251d54e"
+metafile = true
+
+[[files]]
+file = "mods/horseinboat.pw.toml"
+hash = "fd2f81d06d23138e315a333ffc975ce8553a7d5d89e6d1bbbb11c7e9ddead2a6"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
@@ -556,6 +611,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-snow.pw.toml"
 hash = "ac7cae24fcac0183430f948d4a3827bb30bb086e5d94f4a255afc5dfd6713371"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
+hash = "ae64daaa267b4172fd5a3c5fab36ce43685c0c85caaa3664523b225d522b2906"
 metafile = true
 
 [[files]]
@@ -699,6 +759,11 @@ hash = "859fd42bdc2aad18998e946f011f015ed163e11f9fa8eccafe897f05b2a0218a"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "bad5d109262b0a07d364973c7da2a4d2ac2c6279223c5c726d410035ef5a3665"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "101c34781cd238ccf1c524b64c870ce1a8611f71df46680c820918c719e868e1"
 metafile = true
@@ -716,6 +781,11 @@ metafile = true
 [[files]]
 file = "mods/my-server-is-compatible.pw.toml"
 hash = "27cd835739eabf2e0dc092cb9670a954c6a94c193ce587178a1d1f69504fbdc1"
+metafile = true
+
+[[files]]
+file = "mods/mysticpotions.pw.toml"
+hash = "e6260a35677a7aa74fb028fce48cc85c7a205c862d534fe1163d19c886b09572"
 metafile = true
 
 [[files]]
@@ -764,6 +834,11 @@ hash = "604edd7e35da63507548276e57328d2f066fd2c58184f11b7605d2ee49bd5b42"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
 metafile = true
@@ -779,8 +854,18 @@ hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true
 
 [[files]]
+file = "mods/quality-sounds.pw.toml"
+hash = "0359d038386e330188c12d768faf1cadf6e6c1577d431b2eba20b0624ab6b662"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "442f784b7c8e3d3231e407a9af4530c16fff9c301a5f57144fb5d895c754ded9"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "32ee85be1b868a77453a16ab97c3f8e1a69d8ea7fff95ea0eeb1aea78b8d0eef"
 metafile = true
 
 [[files]]
@@ -791,6 +876,16 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/riding-partnersreforged.pw.toml"
+hash = "d5800bec0302255f926e8affe6549797b6fd1f2c8478c28d0cf0ba1b60a5528a"
+metafile = true
+
+[[files]]
+file = "mods/saddle-and-horse-armor-craft.pw.toml"
+hash = "b4a34ffd2e38d839c3989f218ddb85a86900ed0c00fc2b928757f66169295037"
 metafile = true
 
 [[files]]
@@ -814,8 +909,18 @@ hash = "e1ba99a16736c1f1cf3f88f5f88be42b529922a066ca4c1f67384c5b69d37a4b"
 metafile = true
 
 [[files]]
+file = "mods/separatedleaves.pw.toml"
+hash = "4a6bc910264e00d9dc48a8c04a440c30cca7221d88c68b6ccfe9ba9c4fe35389"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "7f38bb5c863c04b013a2c6ed75d799525ba3cc5a548279adde6e9329ff308dd4"
+metafile = true
+
+[[files]]
+file = "mods/shiny-horses-forge.pw.toml"
+hash = "5798e9e8dfe1c0fcdbbfa6bd18a13f385114d019d0142cd7072b2d4cafd841d9"
 metafile = true
 
 [[files]]
@@ -916,6 +1021,16 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8e4a88ac887cf91f870804cd5a4730e318dc68b927b7634c2adb9d6b78fc04d1"
+metafile = true
+
+[[files]]
+file = "mods/sweetys-horse-armor-tweaks.pw.toml"
+hash = "62f418bb18d4afadc72efe74e241dacbb57d7412b8f9c6427c73e72c7b863985"
+metafile = true
+
+[[files]]
+file = "mods/table-top-craft.pw.toml"
+hash = "d8a0355cf4da9ce96dadbec3fa67a0ffa81132c72c3184f03b6bd30cb2669e08"
 metafile = true
 
 [[files]]

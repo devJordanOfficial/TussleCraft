@@ -1,0 +1,13 @@
+name = "Animal Armor Trims - Horse & Wolf"
+filename = "animal_armor_trims-merged-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YmFaSpcI/versions/yRGwd69z/animal_armor_trims-merged-1.20.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "1571f8b6508954909883093ceeade7b3d5c78dfd6c06027484260ca375b029762c46a668ab7bcde24fd4a59499c517a96c1bfd4067da114a28d116271cb26efe"
+
+[update]
+[update.modrinth]
+mod-id = "YmFaSpcI"
+version = "yRGwd69z"

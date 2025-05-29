@@ -1,0 +1,13 @@
+name = "Shiny Horses - Enchantable Horse Armor"
+filename = "ShinyHorses-1.20.1-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WucESYhb/versions/MaSQSZK8/ShinyHorses-1.20.1-1.3.jar"
+hash-format = "sha512"
+hash = "bc7fe60cdbda662618180184bab5eaa9d53b848599127251b0c84229e8faac4ad8008f42e5bafc1e5ac14d0e9761f32e8b0b4dccb970d13ea02a7075be22a32b"
+
+[update]
+[update.modrinth]
+mod-id = "WucESYhb"
+version = "MaSQSZK8"

@@ -1,0 +1,13 @@
+name = "Horse Combat Controls"
+filename = "horsecombatcontrols-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ye73E82r/versions/wUQKDOih/horsecombatcontrols-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "a58815b9eaf6e822324aec5e901d045bb9fdfdf626227749a2ef7ef8349d40b024450f8f9d2dfde1a82079e39a38012274c3e47de169a8ef572e99e88581b520"
+
+[update]
+[update.modrinth]
+mod-id = "Ye73E82r"
+version = "wUQKDOih"
