@@ -1,0 +1,13 @@
+name = "Fragmented Totem"
+filename = "totem_fragments-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a6e97cf3a6709c90a45fc9fbbc49774606f92e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5547239
+project-id = 1067149

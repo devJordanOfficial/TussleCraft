@@ -1,0 +1,13 @@
+name = "Bedrolls"
+filename = "bedrolls-1.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C4yvzmK9/versions/PaCOkFVB/bedrolls-1.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "e75e9bdac829bfdee763ed4568edd99ac665174ff78c65d969ac1bbdf382ad51e9999b2612e46107babd7bd4ed5c4f3d570bef1e73458c6cb1eced986897178f"
+
+[update]
+[update.modrinth]
+mod-id = "C4yvzmK9"
+version = "PaCOkFVB"

@@ -14,6 +14,11 @@ hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
 
 [[files]]
+file = "mods/alekiships.pw.toml"
+hash = "f5aa2b8d76f3bf96459c11bf511475c4ee12647a3fea30e5d48beddd670499fd"
+metafile = true
+
+[[files]]
 file = "mods/allurement!.pw.toml"
 hash = "a4dba57fcce3f41ba52e3ab28343b3165f021d9d363c693bed73a476769b5a85"
 metafile = true
@@ -49,6 +54,11 @@ hash = "c3daae892d91d5b36c65fbd18f19d22a61fcac210f25350cde0a413c6a49210f"
 metafile = true
 
 [[files]]
+file = "mods/backpacked.pw.toml"
+hash = "5529fab4cd1c7f4bd6ad12cda0196d73cab74f5fb5bda828074897b4ae30f1c5"
+metafile = true
+
+[[files]]
 file = "mods/backported-wolves.pw.toml"
 hash = "04a90c150819dafcb0886bc642b2f88fcff9b987008443be74b1293541e0aade"
 metafile = true
@@ -71,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/beautify.pw.toml"
 hash = "bb546c2ccaa10d11d563b5600e9d0000fbe66e3ec07a0b19b126b311dd50ab6e"
+metafile = true
+
+[[files]]
+file = "mods/bedrolls.pw.toml"
+hash = "7e1c78bbfcf136934cc347a44c7abd12d48e769250ccf5bff015598e267886ab"
 metafile = true
 
 [[files]]
@@ -111,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
 
 [[files]]
@@ -186,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "35547f679eb0eeac8c5158e49faea3b4ba99263bd6fd1cd27114a48dd6d3db9d"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
 
 [[files]]
@@ -294,6 +319,11 @@ hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
 metafile = true
 
 [[files]]
+file = "mods/dyenamics.pw.toml"
+hash = "6f093c73d8bc0ce4f6dd9789bd429fd4cbd259eddbe2853bb3142a863df2b73b"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "53c6f7ced4a2174f6808837495fdc712a3dfcde3c061aa1cc70e45b753cf3299"
 metafile = true
@@ -364,6 +394,11 @@ hash = "473489bb165ab775858cc475d8e9ae599e126bced1c73d17563e3459e4899719"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-hordes.pw.toml"
+hash = "fab637d56fc710f47c0a1419ac61aa29ef74140d191d34e5271e0c4275cd1bd1"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
 metafile = true
@@ -381,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "634b5edbee20fe19a7a09cd4bc0b43fc98cff839fd9142bfb415c0aa57b3dc9a"
+metafile = true
+
+[[files]]
+file = "mods/fantasy_armor.pw.toml"
+hash = "c5069c5408626f51410f0768f7dd73ab9b989add693c6e5a9e029013a56066d8"
 metafile = true
 
 [[files]]
@@ -414,8 +454,18 @@ hash = "2a2da56930dd4587e5ec68756c8f2f04585f1719a3f2098da2cffefcdedf3ada"
 metafile = true
 
 [[files]]
+file = "mods/fragmented-totem.pw.toml"
+hash = "361126012487c8fb372aa94a0b0d039ddd095e9cda7e49e8e54d436802d35ecd"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "f9ebd6ed538b7d24f011d5053390a4e59dbad4c2d6eee968e3a49795d142bb22"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
 metafile = true
 
 [[files]]
@@ -426,6 +476,16 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "23094702ea97f590631f42ab202697fd0810701f8f5475b838475e81aeec6d11"
+metafile = true
+
+[[files]]
+file = "mods/game-menu-remove-gfarb.pw.toml"
+hash = "9da6fa6810262a395881be3b64c262239875461fd0cbc52c2e8fea4d3a1d7d49"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
@@ -789,6 +849,11 @@ hash = "33c63115013c310cd1610064f2157808a0be1d2f8ce607effa093cb2d691a083"
 metafile = true
 
 [[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "4723e486834dd83851c85d3e51187dfacf4f405d903322c2661053bfd3531ac3"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "9af0466479467c6c9c177087c1959cb7abe4fac36c483d05016c0eebef7b39b8"
 metafile = true
@@ -906,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/vminus.pw.toml"
 hash = "1bb99f86c3352e98cddc7609347eee315fa387d84b5148166505ad212408d116"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
 metafile = true
 
 [[files]]
