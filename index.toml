@@ -629,6 +629,11 @@ hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "19534e9bac78b0678bc7037c462a1157459b881fababa769e825461fe163f43d"
+metafile = true
+
+[[files]]
 file = "mods/journeymap-teams.pw.toml"
 hash = "0d461adcae8e714aca3c334190fe55aeff23b0c3c0b915b74de9810c9130fefd"
 metafile = true
@@ -856,11 +861,6 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "442f784b7c8e3d3231e407a9af4530c16fff9c301a5f57144fb5d895c754ded9"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "32ee85be1b868a77453a16ab97c3f8e1a69d8ea7fff95ea0eeb1aea78b8d0eef"
 metafile = true
 
 [[files]]
