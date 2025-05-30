@@ -3,11 +3,11 @@ filename = "enhancedai-2.6.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TDdoftI1/versions/bzsLFaLX/enhancedai-2.6.3.jar"
-hash-format = "sha512"
-hash = "8eef5732a7a21676adaa4b52b2b96dc095fb03030e8f175cc9884e5157bc49fac72fffa21cb9498a7400a370650062730cd050988e4521e46bfa44c96f01b3d7"
+hash-format = "sha1"
+hash = "7407341a98c4cd987c6435a68863e9bf04ed4ab7"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "TDdoftI1"
-version = "bzsLFaLX"
+[update.curseforge]
+file-id = 6555664
+project-id = 515276

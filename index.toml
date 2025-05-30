@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-ai.pw.toml"
-hash = "1c83a493d74dfdd1b1f44cccb82be775e1866cfe908d33b5421592cedebf87a3"
+hash = "02bfc7a861d68c813e3493acae3b91d541139c9b4c4bf626dace8941a7344b3b"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/insanelib.pw.toml"
-hash = "ae64daaa267b4172fd5a3c5fab36ce43685c0c85caaa3664523b225d522b2906"
+hash = "05d02736e2e380341fa053a773064d2d31d33c40eb6d1e8eba6729592ea9d209"
 metafile = true
 
 [[files]]
