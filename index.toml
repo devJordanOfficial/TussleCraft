@@ -1089,11 +1089,6 @@ hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-horses.pw.toml"
-hash = "b4f5928cf1c8d6973c68cb247f0870003dc91585edd39857465a2f582520128b"
-metafile = true
-
-[[files]]
 file = "resourcepacks/toms-create-storage.pw.toml"
 hash = "11753e7da05bc5a4cb037070281d1898b021f1d5419cb2c8477f960032b17c0f"
 metafile = true
