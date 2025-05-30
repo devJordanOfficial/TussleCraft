@@ -169,8 +169,18 @@ hash = "bedbc2d1793865a8bfc57bc511a04fdd25497ebdccbebfaae00f95d5c16dc9ef"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
+metafile = true
+
+[[files]]
 file = "mods/clean-tooltips.pw.toml"
 hash = "9f282f01d69f3e86412a5d8b204a5d471d1e694ff30e16b9cb47cb8f2764d923"
+metafile = true
+
+[[files]]
+file = "mods/clickable-advancements.pw.toml"
+hash = "588807da8d9fcf5b9670a0b9804d8a3c400a4985b23e8aa7368f4e7c6e721f80"
 metafile = true
 
 [[files]]
@@ -279,11 +289,6 @@ hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
 metafile = true
 
 [[files]]
-file = "mods/create_unbreakable.pw.toml"
-hash = "154e0426112d9d1493fc11201e7b419eddb77911390b303aa0b1f11a832846cf"
-metafile = true
-
-[[files]]
 file = "mods/createbigcannons.pw.toml"
 hash = "6ea6ab62ec37c5a53967e085d38449e28386e9d3bd41168bd6786cf9b07a1a39"
 metafile = true
@@ -306,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "16adcd779e8cf3e206f1e42b2ce1cce18aaf2b786257cb04eafefbe5991a8345"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
@@ -376,41 +386,6 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
-metafile = true
-
-[[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "3a728230bfbaf61c1fb3a102bcf320b63a0a132c149b0b827eaf1ce0a52e3fef"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "5d6004ca876efde3d87e789b18c6e3c54be63ccab8b733d3f1b7c74f39f29eda"
-metafile = true
-
-[[files]]
-file = "mods/emi-ores.pw.toml"
-hash = "46d4c949ae536fe659e4b49750c5cd737e78e89e7daac603db336b3cb7a3b176"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
-metafile = true
-
-[[files]]
-file = "mods/emienchants.pw.toml"
-hash = "c3e0dc431253ce66b1c78dc3e69e80b3c41a63707b92345f92d8708bcf87ad9f"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "f9f6ab1a6f68298710ca37f82503969531856c67138c4049f20c134d8b70dc55"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
 metafile = true
 
 [[files]]
@@ -496,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/fishermens-trap.pw.toml"
 hash = "2a2da56930dd4587e5ec68756c8f2f04585f1719a3f2098da2cffefcdedf3ada"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
@@ -649,6 +629,11 @@ hash = "39d576bdf14b906a1e6b11154473f5fb9444919aed049f3841779c9afce65359"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "11c474b1516d8f2c13fa6086d9cccb2306155ccb67dafe5bdc8e961a890362fc"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "06891bb68a15a222e4e24b47f2167028d45bb55525a89dc30c680baf67797d82"
 metafile = true
@@ -681,6 +666,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "6aa6897a3227a41db128aef512ad6e6cf33e3c3b806973f94bf63a2eed69f4df"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "0a96e881040a95b2543d18afc3f9e1727e64659ec1548ed2df4fcd7dafbfbbc7"
 metafile = true
 
 [[files]]
@@ -876,6 +866,26 @@ metafile = true
 [[files]]
 file = "mods/riding-partnersreforged.pw.toml"
 hash = "d5800bec0302255f926e8affe6549797b6fd1f2c8478c28d0cf0ba1b60a5528a"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "e38945b50b973d994c16480820661aada73212ed7e60fafdbf17b0e7f6740378"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "8eaa51d7f63c6abb594354921b8acb246bc5b7b6955cc98720fd36ae4f5b44be"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "afbc1b044e9a53bc2db3686bdc4b8e8d099972de2bd802482a569594c209b471"
 metafile = true
 
 [[files]]
