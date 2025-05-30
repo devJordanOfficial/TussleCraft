@@ -854,11 +854,6 @@ hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true
 
 [[files]]
-file = "mods/quality-sounds.pw.toml"
-hash = "0359d038386e330188c12d768faf1cadf6e6c1577d431b2eba20b0624ab6b662"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "442f784b7c8e3d3231e407a9af4530c16fff9c301a5f57144fb5d895c754ded9"
 metafile = true
