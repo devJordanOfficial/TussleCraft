@@ -124,6 +124,11 @@ hash = "5dd1e6a1ccfda5ce632e50c558c2ecd9ba31f3a6e748d76a3426a113688370fe"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "524935c82227eb3f1c0721ca50a809e1f2c950dd69154a113e8636f21f093efb"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
 metafile = true
@@ -416,6 +421,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "5baabb053ea542351cbce4ba4f7f4acff102c56c5f7c21adc08f745a92d3b63b"
 metafile = true
 
 [[files]]
@@ -834,6 +844,11 @@ hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
 metafile = true
 
 [[files]]
+file = "mods/pretty-rain.pw.toml"
+hash = "b9ec4ecd23b415b2ec3b4dca7b5efbe3b7918944e890362eecf6c90270399d30"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "f79cb80b6ea599fe4ca9404465277ff7edf25118976170c28827590febfcee7a"
 metafile = true
@@ -1094,6 +1109,26 @@ hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bushy-leaves.pw.toml"
+hash = "fe5adc4c8b9bd20d4bf11efe53d7da867a5aea365e5cf9376379c40a482668b6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/toms-create-storage.pw.toml"
 hash = "11753e7da05bc5a4cb037070281d1898b021f1d5419cb2c8477f960032b17c0f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
 metafile = true
