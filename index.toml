@@ -414,11 +414,6 @@ hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
 metafile = true
 
 [[files]]
-file = "mods/euphoria-patches.pw.toml"
-hash = "5baabb053ea542351cbce4ba4f7f4acff102c56c5f7c21adc08f745a92d3b63b"
-metafile = true
-
-[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "634b5edbee20fe19a7a09cd4bc0b43fc98cff839fd9142bfb415c0aa57b3dc9a"
 metafile = true
@@ -1144,11 +1139,20 @@ hash = "11753e7da05bc5a4cb037070281d1898b021f1d5419cb2c8477f960032b17c0f"
 metafile = true
 
 [[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+file = "shaderpacks/iterationT 3.0.0 (Modified).zip.txt"
+hash = "83c53a7b4ca4f8af1289040a66afb68715ce7eedeb7eb16c00c485a7be5c2b8d"
+
+[[files]]
+file = "shaderpacks/iterationt.pw.toml"
+hash = "b1166ade0333ca9c7bafe355e5eaa418b1cf6fe797bd577a576cd22231d8e67a"
 metafile = true
 
 [[files]]
-file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "6eab1c7b54fe8538afd2e260f44ea46316ad6edf8132f5699deb2b1a4584ebd7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "883ec8370ad80d4be5a7f89b834b466157ad39ecfa7b1919412c2298ad6d27af"
 metafile = true
