@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "fdac6508874b835d86e0981472b0e1dedbdef9a62dc098823a91edf410621c7a"
+hash = "568bf48f057df75261b785cc28ac0ab4a280e387fc9b798e2a54833906ee7bf3"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -476,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+metafile = true
+
+[[files]]
+file = "mods/forgeskyboxes.pw.toml"
+hash = "d8958ad4a603ed4ed952ed1cd2cb13a41734aa5a1eba7d6530f37afe7aad2311"
 metafile = true
 
 [[files]]
@@ -1106,6 +1111,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cod-zombies-zombie-voice-pack.pw.toml"
 hash = "aa9cf6fb9dffa49b88f53ac0020a9b109b49025535c1e3f218476060021cc835"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
 metafile = true
 
 [[files]]
