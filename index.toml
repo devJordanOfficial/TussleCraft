@@ -314,11 +314,6 @@ hash = "5ba1f7a67357718a3e683cb741d52deaa6017e4627380ba3614747ad13bfffb5"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "9ea314aff8c6e5babbaf5e829cd2c7f1be129ce2bd690ac2ec1311f621f0b9e0"
-metafile = true
-
-[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "16adcd779e8cf3e206f1e42b2ce1cce18aaf2b786257cb04eafefbe5991a8345"
 metafile = true
@@ -1114,8 +1109,8 @@ hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-leaves.pw.toml"
-hash = "5507b242a9db7237f92f75009d0036fc606ccbde30de9ad520dac873812126ab"
+file = "resourcepacks/bushy-leaves.pw.toml"
+hash = "fe5adc4c8b9bd20d4bf11efe53d7da867a5aea365e5cf9376379c40a482668b6"
 metafile = true
 
 [[files]]
@@ -1126,6 +1121,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/gentler-weather-sounds.pw.toml"
 hash = "b417ce83b8fe385c7477da4d2830de318a47f0dbbf1d4e725705c8156b39df2c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-fire-pack.pw.toml"
+hash = "2215365751320cf23b2b12b0491801f360b9b774c8a07e1135b3ed97058be124"
 metafile = true
 
 [[files]]
