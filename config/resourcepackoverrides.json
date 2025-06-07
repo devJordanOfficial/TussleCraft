@@ -2,21 +2,37 @@
   "schema_version": "2",
 
   "default_packs": [
+    "Moonlight Mods Dynamic Assets",
+    "mod_resources",
+    "builtin/add_pack_finders_test",
+    "file/FreshAnimations_v1.9.2.zip",
     "file/Create+Simple+Storage+2.1.zip",
-    "builtin/add_pack_finders_test"
+    "file/TZP_1.20.1_2.7.zip",
+    "file/Cod Zombies Voice Pack.zip",
+    "file/Low Fire.zip",
+    "file/Gentler Weather Sounds.zip",
+    "file/Mizuno Better Leaves 1.20 -1.20.1.zip"
   ],
+
+  "default_overrides": {
+    "fixed_position": true
+  },
 
   "pack_overrides": {
     "required": [
       "Moonlight Mods Dynamic Assets",
       "mod_resources",
+      "builtin/add_pack_finders_test",
+      "file/FreshAnimations_v1.9.2.zip",
       "file/Create+Simple+Storage+2.1.zip",
-      "builtin/add_pack_finders_test"
+      "file/TZP_1.20.1_2.7.zip",
+      "file/Cod Zombies Voice Pack.zip",
+      "file/Low Fire.zip",
+      "file/Gentler Weather Sounds.zip"
     ],
     "$$required": {
       "required": true,
-      "hidden": true,
-      "fixed_position": true
+      "hidden": true
     },
 
     "hidden": [

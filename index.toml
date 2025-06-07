@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "59a51e03bb1790634e1247cec293a0ce7be422df090b8e969502b86eb181d3d6"
+hash = "fdac6508874b835d86e0981472b0e1dedbdef9a62dc098823a91edf410621c7a"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -121,11 +121,6 @@ metafile = true
 [[files]]
 file = "mods/building-but-better.pw.toml"
 hash = "5dd1e6a1ccfda5ce632e50c558c2ecd9ba31f3a6e748d76a3426a113688370fe"
-metafile = true
-
-[[files]]
-file = "mods/cameraoverhaul.pw.toml"
-hash = "524935c82227eb3f1c0721ca50a809e1f2c950dd69154a113e8636f21f093efb"
 metafile = true
 
 [[files]]
@@ -346,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
-metafile = true
-
-[[files]]
-file = "mods/draggable-lists.pw.toml"
-hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
 metafile = true
 
 [[files]]
@@ -1109,8 +1099,13 @@ hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
 metafile = true
 
 [[files]]
-file = "resourcepacks/bushy-leaves.pw.toml"
-hash = "fe5adc4c8b9bd20d4bf11efe53d7da867a5aea365e5cf9376379c40a482668b6"
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "5507b242a9db7237f92f75009d0036fc606ccbde30de9ad520dac873812126ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cod-zombies-zombie-voice-pack.pw.toml"
+hash = "aa9cf6fb9dffa49b88f53ac0020a9b109b49025535c1e3f218476060021cc835"
 metafile = true
 
 [[files]]

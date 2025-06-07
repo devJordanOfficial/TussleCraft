@@ -1,0 +1,13 @@
+name = "Cod-Zombies Zombie Voice Pack"
+filename = "Cod Zombies Voice Pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "745ada4516ec99d1bdd787ae41b3b3d41575284f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2944957
+project-id = 380065
