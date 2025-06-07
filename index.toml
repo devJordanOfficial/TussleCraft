@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "5791f399f907fd8e40a71f4046d0ca8d4d1b6b9eceb2a7ee4c18f606bdc7684f"
+hash = "65186c9c43cd6b81b9f0db577ac6a2425dcdea026ff1f33d56d04cdcbb5841e5"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
