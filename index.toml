@@ -835,12 +835,12 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "8a82911e6b05865524ff9a2dc4ff37fe8ca046ed754268b897e767f9515d43a1"
+hash = "a5ae41acb4798c6d8ffd16c8c537e452dd5a17efa6734214f6d8044c3ba52214"
 metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "ea58ea3a87257471a762045e1c44e0f4ea92f3944054825b9033fd7afcce8ec9"
+hash = "13973832e0cd4aed722970730bf1edbd7e9a454ab550a4d7ab3cbb09221abfc6"
 metafile = true
 
 [[files]]
