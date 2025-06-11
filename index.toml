@@ -249,6 +249,11 @@ hash = "35547f679eb0eeac8c5158e49faea3b4ba99263bd6fd1cd27114a48dd6d3db9d"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "aab86d52c9896cfcf7c0635c3c897c3dd190de84e3be9eeb726a22c5a61602ed"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
@@ -319,6 +324,11 @@ hash = "04c8190de142c5ee7a8c6333b0005a18cca8fcf9062c9b7f5a212ecc022e8736"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "5cf8a06431f16a18dc468baae3fbdf17cc1d72b9697da58cb126342ed937aa59"
+metafile = true
+
+[[files]]
 file = "mods/cryonicconfig.pw.toml"
 hash = "5ba1f7a67357718a3e683cb741d52deaa6017e4627380ba3614747ad13bfffb5"
 metafile = true
@@ -351,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/dimensional-sync-fixes.pw.toml"
 hash = "95083b16bf6d75561e763911e12bf1d6e0fe62e244c82a48cb2ff18b75ec324f"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
 metafile = true
 
 [[files]]
@@ -426,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
+metafile = true
+
+[[files]]
+file = "mods/expanded-ecosphere.pw.toml"
+hash = "a2daf59835c14f2c37ef6494ff7faf6cbcad02b06c38478ed0dca4085046da41"
 metafile = true
 
 [[files]]
@@ -809,6 +829,11 @@ hash = "d8bade3bf5ab82d9b3f185bff6c5630cfa4319f331c12d0b6ee226d65eb8b345"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "4cd211200d17b109bb15f88c7b0c6ba29d9c0af6d2feb76fc7fe4eabff2e4ffe"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "f16fd7fba2242ba733897eeaaa09cb27e01a438d240e175a26c956319f8a1561"
 metafile = true
@@ -826,6 +851,16 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "8a82911e6b05865524ff9a2dc4ff37fe8ca046ed754268b897e767f9515d43a1"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "ea58ea3a87257471a762045e1c44e0f4ea92f3944054825b9033fd7afcce8ec9"
 metafile = true
 
 [[files]]
@@ -1064,6 +1099,21 @@ hash = "0d7530bb17ed18c34cfa7eb91661ba937367120b9a42e237c3cc43db39890065"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
 file = "mods/thirst-was-taken.pw.toml"
 hash = "d7df242deaaff7012e76a18e240e32467172ef4f9c010526ce4e01920acdb669"
 metafile = true
@@ -1114,6 +1164,11 @@ hash = "1bb99f86c3352e98cddc7609347eee315fa387d84b5148166505ad212408d116"
 metafile = true
 
 [[files]]
+file = "mods/wwoo.pw.toml"
+hash = "ca5bfe1a7a7bd7d60d488281bb4dab2f0297f181a1480acc0ca6643934c9dab9"
+metafile = true
+
+[[files]]
 file = "mods/zombie-awareness.pw.toml"
 hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
 metafile = true
@@ -1126,11 +1181,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/cod-zombies-zombie-voice-pack.pw.toml"
 hash = "aa9cf6fb9dffa49b88f53ac0020a9b109b49025535c1e3f218476060021cc835"
-metafile = true
-
-[[files]]
-file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
 metafile = true
 
 [[files]]
