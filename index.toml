@@ -139,11 +139,6 @@ hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
 
 [[files]]
-file = "mods/celestial.pw.toml"
-hash = "230b7ff87ed425843c71bc2d02f25b91a9e3329661d5350e573a39c2abd68554"
-metafile = true
-
-[[files]]
 file = "mods/chalk-mod.pw.toml"
 hash = "8bcc00f3a6326cd48aa772428b5df25a5f8851626870900c7cd43498b797b5d5"
 metafile = true
@@ -226,16 +221,6 @@ metafile = true
 [[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "efa28f514aa344b6ff477d69f8666dbf644b0d2c1a16b754a6ec9026c07fb315"
-metafile = true
-
-[[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
@@ -511,11 +496,6 @@ metafile = true
 [[files]]
 file = "mods/forgeskyboxes.pw.toml"
 hash = "d8958ad4a603ed4ed952ed1cd2cb13a41734aa5a1eba7d6530f37afe7aad2311"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
 metafile = true
 
 [[files]]
