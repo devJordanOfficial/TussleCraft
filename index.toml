@@ -349,11 +349,6 @@ hash = "95083b16bf6d75561e763911e12bf1d6e0fe62e244c82a48cb2ff18b75ec324f"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
-metafile = true
-
-[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "0bd3d604bc61c7460977b177bd9db979a6c235c55e8d1cd981dba1620ec80af8"
 metafile = true
@@ -614,6 +609,16 @@ hash = "05d02736e2e380341fa053a773064d2d31d33c40eb6d1e8eba6729592ea9d209"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "6703d5686b7249c586a3a710a909dfd0eba3e2d0c76bc152efb2c43494e5b2e1"
+metafile = true
+
+[[files]]
+file = "mods/integrated-villages.pw.toml"
+hash = "4c370e8ae8dcd19e0cb8f59c88d054c1d7f9cb3591cbf00a7970505bc9e09480"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
 metafile = true
@@ -674,6 +679,11 @@ hash = "471f6366615d29246e35c3193359ea479925ad98eb2beb1d59f0647f9896df3d"
 metafile = true
 
 [[files]]
+file = "mods/libertyvillagers.pw.toml"
+hash = "f019706dd32c4232763a2650e46b517400ce81a7c6688e04d4dafb2dcb9afc48"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "6aa6897a3227a41db128aef512ad6e6cf33e3c3b806973f94bf63a2eed69f4df"
 metafile = true
@@ -686,6 +696,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
+metafile = true
+
+[[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "83a99ef96b53649cb77e37be095a4cc390e889580cf00ff13956646e43e4f2cb"
 metafile = true
 
 [[files]]
@@ -851,6 +866,11 @@ metafile = true
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
 hash = "604edd7e35da63507548276e57328d2f066fd2c58184f11b7605d2ee49bd5b42"
+metafile = true
+
+[[files]]
+file = "mods/parcool.pw.toml"
+hash = "338a51e485c29877fd3f86322c6567dd25b2c6b95c82175403f6618457bd9517"
 metafile = true
 
 [[files]]
@@ -1126,6 +1146,16 @@ metafile = true
 [[files]]
 file = "mods/vibrative-voice.pw.toml"
 hash = "5194dedc1d09130cf3635ea8f32e8d95ce0615d08d9c60006ec94e512a01eb46"
+metafile = true
+
+[[files]]
+file = "mods/village-nullifier.pw.toml"
+hash = "4f87c1adf0b1690b2b112987e2764507655c59c67be2ad0db0369595fa8ed78e"
+metafile = true
+
+[[files]]
+file = "mods/villager-recruits.pw.toml"
+hash = "6b8785d7c41f1b43793664c619e24c823c38a18a0ab3afe112673bae1af14012"
 metafile = true
 
 [[files]]
