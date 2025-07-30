@@ -1,0 +1,13 @@
+name = "Forbidden Potions"
+filename = "ForbiddenPotions-1.1.0-1.20.x-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4bD9ilIR/versions/DdpXl47z/ForbiddenPotions-1.1.0-1.20.x-forge.jar"
+hash-format = "sha512"
+hash = "8f14b7756485c453cb1a948d87ec5ed7cafcf4ad026e01052e826bad18a39b8f1a793fbd3d402bf33dc5043ebf10d2acfe0897708494b3f8859d2bf16a8a8c16"
+
+[update]
+[update.modrinth]
+mod-id = "4bD9ilIR"
+version = "DdpXl47z"

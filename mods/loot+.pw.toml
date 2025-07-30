@@ -1,0 +1,13 @@
+name = "Loot+"
+filename = "Loot Plus V1.1.3-forge-1.20.1 (FIXED).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HXHLSNPN/versions/TvcmwCfR/Loot%20Plus%20V1.1.3-forge-1.20.1%20%28FIXED%29.jar"
+hash-format = "sha512"
+hash = "c24d991a20dc3611addc47c545513f0889410a23c1fbb460b7b161fd3397a3598174c6a3d634539e5fd4e2b902e8b87f97ad2156908c8d814eebc07411bf2d5d"
+
+[update]
+[update.modrinth]
+mod-id = "HXHLSNPN"
+version = "TvcmwCfR"

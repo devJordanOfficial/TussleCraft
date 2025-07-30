@@ -1,0 +1,13 @@
+name = "Prehistoric Legacy"
+filename = "prehistoric_legacy-1.0.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K7MCLcrJ/versions/A62TCvrX/prehistoric_legacy-1.0.3-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "2f793953b13c344629442ebb6bb6f1c64c9e2d734d50591426431f721593bb64c0d39593d729c477402ab1bc35df3978dba2fb768d0a9af0753a2ebd2cff3c27"
+
+[update]
+[update.modrinth]
+mod-id = "K7MCLcrJ"
+version = "A62TCvrX"

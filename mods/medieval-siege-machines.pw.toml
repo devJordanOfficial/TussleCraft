@@ -1,0 +1,13 @@
+name = "Medieval Siege Machines"
+filename = "[1.20.1]-Siege-Machines-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ctnEXZ5V/versions/5I8V3R09/%5B1.20.1%5D-Siege-Machines-1.21.jar"
+hash-format = "sha512"
+hash = "206b00ca711c8693bd6eafdc1c5b024cf308c195af9b3c0b325e5e9781af3142a2c1b6df13c37b475c8b254f55d2ee7f1d1dd086c0575ff950cbc35ba6e31da3"
+
+[update]
+[update.modrinth]
+mod-id = "ctnEXZ5V"
+version = "5I8V3R09"
