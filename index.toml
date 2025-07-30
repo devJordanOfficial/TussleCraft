@@ -623,11 +623,6 @@ hash = "6703d5686b7249c586a3a710a909dfd0eba3e2d0c76bc152efb2c43494e5b2e1"
 metafile = true
 
 [[files]]
-file = "mods/integrated-villages.pw.toml"
-hash = "4c1f7c645f751d9f62b958966f017cdd0f0011031ad5af246aa2ec9ba9b268d5"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
 metafile = true
