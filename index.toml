@@ -5,6 +5,10 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "cdac9cd718e9d0561b5f7c088f88f0709060f4048c4bb04ba3b29532f16a667a"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "65186c9c43cd6b81b9f0db577ac6a2425dcdea026ff1f33d56d04cdcbb5841e5"
 
@@ -620,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-villages.pw.toml"
-hash = "4c370e8ae8dcd19e0cb8f59c88d054c1d7f9cb3591cbf00a7970505bc9e09480"
+hash = "4c1f7c645f751d9f62b958966f017cdd0f0011031ad5af246aa2ec9ba9b268d5"
 metafile = true
 
 [[files]]
