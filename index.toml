@@ -683,8 +683,8 @@ hash = "471f6366615d29246e35c3193359ea479925ad98eb2beb1d59f0647f9896df3d"
 metafile = true
 
 [[files]]
-file = "mods/libertyvillagers.pw.toml"
-hash = "f019706dd32c4232763a2650e46b517400ce81a7c6688e04d4dafb2dcb9afc48"
+file = "mods/libertys-villagers.pw.toml"
+hash = "f447fdcdb7b21bad7caa050f3e481ed14608cf1c1f0df78524fa3863472618c5"
 metafile = true
 
 [[files]]
