@@ -344,6 +344,11 @@ hash = "dc23ac7c75b3f33b93f5725c9d6cfb2e62575550f2b8b01683397e35ad1a3955"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "e9dfcaebe165cb93ba4774f5c17bae14b5b82878593199539326f92519f59d5e"
+metafile = true
+
+[[files]]
 file = "mods/dimensional-sync-fixes.pw.toml"
 hash = "95083b16bf6d75561e763911e12bf1d6e0fe62e244c82a48cb2ff18b75ec324f"
 metafile = true
