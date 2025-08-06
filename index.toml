@@ -18,6 +18,16 @@ hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs-naturalist-compat.pw.toml"
+hash = "f0cdbfad9ad0595555ffbbe2d1c7740d0c2e35e435db3687b8cd1b6040bb2e47"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
+metafile = true
+
+[[files]]
 file = "mods/allurement!.pw.toml"
 hash = "a4dba57fcce3f41ba52e3ab28343b3165f021d9d363c693bed73a476769b5a85"
 metafile = true
@@ -185,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
 metafile = true
 
 [[files]]
@@ -830,6 +845,11 @@ metafile = true
 [[files]]
 file = "mods/mysticpotions.pw.toml"
 hash = "e6260a35677a7aa74fb028fce48cc85c7a205c862d534fe1163d19c886b09572"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6039fa77bfd0871c009092508bbaaed5f25947af425943fe3a2c8e6b32cd3102"
 metafile = true
 
 [[files]]
