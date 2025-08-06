@@ -783,11 +783,6 @@ hash = "f24b35f93a402072b13ca9276ba30e934ce6ac88627a6d73f5a67762e17c57a6"
 metafile = true
 
 [[files]]
-file = "mods/meds-and-herbs.pw.toml"
-hash = "e3ea5ec93a393159e7939bb66134d87fd3f1ea6082cf783697c94ca4e571f9cb"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
