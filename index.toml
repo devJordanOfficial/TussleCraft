@@ -38,6 +38,11 @@ hash = "416c089224a401ec7c0ef60ae6f1f8555e783f89ec6aba49d72f41c58d7955d2"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "57c0f350262f81f6768226f833a7bc3d6d9d6342c4e2c77a0f477043483c42b9"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "0a01a0be766ccb1492c1d0a5dd3b315ef455862ee68c578bd01cbcf71d7058eb"
 metafile = true
@@ -90,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/backported-wolves.pw.toml"
 hash = "04a90c150819dafcb0886bc642b2f88fcff9b987008443be74b1293541e0aade"
+metafile = true
+
+[[files]]
+file = "mods/bad-mobs.pw.toml"
+hash = "ad277ad1cc85c6dce61a2ab784dfcb54b5c522a824f06cb94339bf32bdb5d52a"
 metafile = true
 
 [[files]]
@@ -334,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-no-break-blocks.pw.toml"
-hash = "04c8190de142c5ee7a8c6333b0005a18cca8fcf9062c9b7f5a212ecc022e8736"
+hash = "3839f90c71328c9f3dc23aeed3088e41a8de361dbffb593a002df7568ed0c0a4"
 metafile = true
 
 [[files]]
@@ -375,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "e9dfcaebe165cb93ba4774f5c17bae14b5b82878593199539326f92519f59d5e"
+metafile = true
+
+[[files]]
+file = "mods/diet.pw.toml"
+hash = "e83fca1fae930c9513c107527d4618a8832f8b9e779e1d50b1e63e148073f83d"
 metafile = true
 
 [[files]]
@@ -508,6 +523,11 @@ hash = "2a2da56930dd4587e5ec68756c8f2f04585f1719a3f2098da2cffefcdedf3ada"
 metafile = true
 
 [[files]]
+file = "mods/fishing-real.pw.toml"
+hash = "6cb2bff49eebfd73dc88ffe9888896f21d4167418fb0d187becbd02db895b7ef"
+metafile = true
+
+[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
@@ -515,11 +535,6 @@ metafile = true
 [[files]]
 file = "mods/forbidden-potions.pw.toml"
 hash = "21d72d8c2e354076409bc68bc9a6431906f3e1b965a183745b684a940523bc18"
-metafile = true
-
-[[files]]
-file = "mods/forgeskyboxes.pw.toml"
-hash = "d8958ad4a603ed4ed952ed1cd2cb13a41734aa5a1eba7d6530f37afe7aad2311"
 metafile = true
 
 [[files]]
@@ -623,6 +638,11 @@ hash = "fd2f81d06d23138e315a333ffc975ce8553a7d5d89e6d1bbbb11c7e9ddead2a6"
 metafile = true
 
 [[files]]
+file = "mods/hourglass.pw.toml"
+hash = "33c13017e0a59e5743ac644cf37496622a096c925b708e3bd39de676b1c2fc00"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
@@ -648,6 +668,11 @@ hash = "ac7cae24fcac0183430f948d4a3827bb30bb086e5d94f4a255afc5dfd6713371"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "239b4042820f3c77f2750690bac6a1ac09638f6fa6b47f3b486436e96deeb0e0"
+metafile = true
+
+[[files]]
 file = "mods/insanelib.pw.toml"
 hash = "05d02736e2e380341fa053a773064d2d31d33c40eb6d1e8eba6729592ea9d209"
 metafile = true
@@ -655,6 +680,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "6703d5686b7249c586a3a710a909dfd0eba3e2d0c76bc152efb2c43494e5b2e1"
+metafile = true
+
+[[files]]
+file = "mods/integrated-stronghold.pw.toml"
+hash = "6a3e8217b2009309ea78ab26a1cbaf6ce53e154846efab841c61467426d27562"
 metafile = true
 
 [[files]]
@@ -810,6 +840,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "f56fcec37f225c9b8a43e46c3b42c600f7bf4ad78e2ba745c6e8842b5f4f012c"
+metafile = true
+
+[[files]]
+file = "mods/mob-sunscreen.pw.toml"
+hash = "24665c4458ac665964e8cb4fa71ac1ee5fa9c6eb17706d6cfc08277d17b1a91c"
 metafile = true
 
 [[files]]
@@ -1235,6 +1270,46 @@ metafile = true
 [[files]]
 file = "mods/wwoo.pw.toml"
 hash = "ca5bfe1a7a7bd7d60d488281bb4dab2f0297f181a1480acc0ca6643934c9dab9"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "532f07775974b695733981b2548859d3bc76c743781a5da5035d40fd6e485ab0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "c35112cced2eec8e5782c5c4327ae31bce16cc1356c75e52000053e890e0f0c1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "8c8b596c0e8f7366e30ee6edbd591fba9ef16741c25a505e64de9a299cd72e80"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "41aa01e9d0507d3131eb5fd2f6d8f2b7c54237e30a94e2a3bf6f52915cb8a688"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "05f825a655bc94af6ab592d13c396b60c818cfc65ff2528e206e7a40a180e210"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "1b458a12e9c076ae870dfaa64aaede89c7e6d18fe0c915d89b349a0af4250253"
 metafile = true
 
 [[files]]
