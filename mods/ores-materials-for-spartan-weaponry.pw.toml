@@ -1,0 +1,13 @@
+name = "Ores & Materials for Spartan Weaponry"
+filename = "spartan_ores_and_materials-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B0GKwlmA/versions/ztxM73DY/spartan_ores_and_materials-1.0.1.jar"
+hash-format = "sha512"
+hash = "bf74541e7942b9417e06b81c78f4adb0e306d0ee06f40ef97cadb7ed717aba4686520dd69340f6ac00d2af9a9505d1bee8e0afecaaa1b0f0156b424c7969eb62"
+
+[update]
+[update.modrinth]
+mod-id = "B0GKwlmA"
+version = "ztxM73DY"

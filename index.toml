@@ -83,11 +83,6 @@ hash = "c3daae892d91d5b36c65fbd18f19d22a61fcac210f25350cde0a413c6a49210f"
 metafile = true
 
 [[files]]
-file = "mods/ato.pw.toml"
-hash = "d64d02d240575e58a4b2ee8794a60f67f053d1fd675dfbd280b2bb8c3438fb93"
-metafile = true
-
-[[files]]
 file = "mods/backpacked.pw.toml"
 hash = "5529fab4cd1c7f4bd6ad12cda0196d73cab74f5fb5bda828074897b4ae30f1c5"
 metafile = true
@@ -935,6 +930,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "13973832e0cd4aed722970730bf1edbd7e9a454ab550a4d7ab3cbb09221abfc6"
+metafile = true
+
+[[files]]
+file = "mods/ores-materials-for-spartan-weaponry.pw.toml"
+hash = "ca064cfe93ec7e08f8e92757a5b4cab6db08e02068a32185417d040a68b6e296"
 metafile = true
 
 [[files]]
