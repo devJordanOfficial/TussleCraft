@@ -1,13 +1,7 @@
-name = "Mobs Refreshed"
-filename = "mobs-refreshed-v2.2.zip"
-side = "client"
+name = "mobs-refreshed"
+filename = "mobs-refreshed-fa-v2.2.zip"
 
 [download]
-url = "https://cdn.modrinth.com/data/pUZXW8CZ/versions/7HZCXRvY/mobs-refreshed-v2.2.zip"
-hash-format = "sha512"
-hash = "5d10a908d2919661fe1b2afceec5196e63156f16d3514e2b66cc4ed3960eaf42bd144b48ef0821d28820f6e55180b4b42c4cc92f0c3e88b5c5e7629266e61513"
-
-[update]
-[update.modrinth]
-mod-id = "pUZXW8CZ"
-version = "7HZCXRvY"
+url = "https://www.infamousgc.com/files/tusslecraft/mobs-refreshed-fa-v2.2.zip"
+hash-format = "sha256"
+hash = "19986fa4870547b1cc462726bae9f7d3106f1a5d311ec54dd25e76b141a3ac31"

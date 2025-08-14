@@ -755,7 +755,7 @@
 		"Ignore Walls Chance" = 0.1
 		#Beta creepers when exploding will walk around the target, like the creepers in pre-1.2.
 		#Range: 0.0 ~ 1.0
-		"Beta Creeper Chance" = 0.35
+		"Beta Creeper Chance" = 0.0
 		#Disables the creeper feature that makes them start swelling when falling.
 		"Disable falling swelling" = true
 		#If true creepers will ignite if damaged by an explosion.
@@ -797,13 +797,13 @@
 			#Allowed Values: NONE, CENA, WTF_BOOM, OLD_EXPLOSION
 			Sounds = "OLD_EXPLOSION"
 			#If true, Angry Creeper will have a name
-			Name = true
+			Name = false
 			#When ignited, Angry Creeper will not stop swelling
 			"Forced Explosion" = false
 			#Makes angry creepers blow up on death like when they were added back in 0.30
 			"Explode on death" = true
 			#If true, Angry Creeper explosion will generate fire
-			"Generates fire" = false
+			"Generates fire" = true
 			#Explosion power of Angry Creeper
 			#Range: 0.0 ~ 12.0
 			"Explosion power" = 4.0

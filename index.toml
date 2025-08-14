@@ -38,7 +38,7 @@ hash = "b5d138ded0fb3ff11b5d07198420bc7f24f9eaff6bc938f4b972bd788de8daee"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "1e81adbec43c2fbef832c82a34e7e155d3c5e301ce3327507c9f8a53aa084041"
+hash = "0ab40fed9f2ce906b32b2134d940ee963f6587d7ea3c9ec37342e5d7bc0837a7"
 
 [[files]]
 file = "config/incontrol/spawn.json"
@@ -581,6 +581,21 @@ hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
 metafile = true
 
 [[files]]
+file = "mods/formations-nether.pw.toml"
+hash = "0afffd423f22bb5e19129f3cd9183031f1c65b39bbeb68314ea621a42d8514e0"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "16d5efbb4c0c97fd9b5474a6f7d51e3ce4caf0c9dd7fdb16df9110be9755b6dc"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "3b5c4d5d1f7f3501be3715228c39d61b053485112cb4a6d56c45ac9cfc41ca52"
+metafile = true
+
+[[files]]
 file = "mods/fragmented-totem.pw.toml"
 hash = "b05231479e291c9d6f4e104d11165eed8cdf3723ec3a9ccac63c5c84eb601e10"
 metafile = true
@@ -806,6 +821,26 @@ hash = "2a0bef2480baf30b5d476c3b694a7a58cf6dfe7456d450efa04da57fd9a2c5f0"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations-formations-overworld-nether.pw.toml"
+hash = "8533b8afdb5115b420862c709527c9b9109908e16cb5679c8834a3861477c742"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-medieval-buildings-end.pw.toml"
+hash = "4faec0ceab917b19d5bc9a85cc0d64ec737d4248b2f3749b39f01ee6b474ff3e"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-when-dungeons-arise.pw.toml"
+hash = "010174cd053f7f5201625fe50c4663bf6d33c25adeee5cf89bd5528f93c83815"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "41a036a86db9c0cab20b9b8956b0749bdfea13942d6ca00668304e5d0731166f"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
 metafile = true
@@ -868,6 +903,21 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "e0d14709c8d5b32a0ceade7c020ea4304f1900129c31c6ac2fe06ff75edb7265"
+metafile = true
+
+[[files]]
+file = "mods/medieval-buildings-end-edition.pw.toml"
+hash = "76c373dd6a213ab76e2083dd6a0d3099984ef44b1e97bd7c85f1be9b4ca44fd1"
+metafile = true
+
+[[files]]
+file = "mods/medieval-buildings-nether-edition.pw.toml"
+hash = "9372354f43ef6887e6831ef5fcb104d8780026f62156181c880a999084fbb5a1"
+metafile = true
+
+[[files]]
+file = "mods/medieval-buildings.pw.toml"
+hash = "e49f763064f80e899302b28aea07fa05902e99f3ebbe5eb3d42b737b0c0fc9c4"
 metafile = true
 
 [[files]]
@@ -1256,11 +1306,6 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
-file = "mods/thirst-canteen.pw.toml"
-hash = "fe3ea9054d666c55f67bae713efbe6b0db6574a69178333fca35232be452fc77"
-metafile = true
-
-[[files]]
 file = "mods/thirst-was-taken.pw.toml"
 hash = "d7df242deaaff7012e76a18e240e32467172ef4f9c010526ce4e01920acdb669"
 metafile = true
@@ -1293,6 +1338,11 @@ metafile = true
 [[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "b41c200214d7dd60eb57cce9236b93d661dcd00618efb0f74f385dd871c77db1"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "2c55793a16d42dc2b10b5507c8799a41b42996e84f7be231341d1d79ecbe7881"
 metafile = true
 
 [[files]]
@@ -1333,6 +1383,11 @@ metafile = true
 [[files]]
 file = "mods/wwoo.pw.toml"
 hash = "ca5bfe1a7a7bd7d60d488281bb4dab2f0297f181a1480acc0ca6643934c9dab9"
+metafile = true
+
+[[files]]
+file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
+hash = "64d3781b6b402f394c54592cda703fc1e551530ad0131b8b6e480cb91434bd6d"
 metafile = true
 
 [[files]]
@@ -1411,13 +1466,8 @@ hash = "2215365751320cf23b2b12b0491801f360b9b774c8a07e1135b3ed97058be124"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mobs-refreshed-+-fresh-animations.pw.toml"
-hash = "14c958fa07ef8887020adddba0e80d64599d62cc99b3f2e79fb2b8344b8cf118"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mobs-refreshed.pw.toml"
-hash = "dacb736bd810a3841fc924efee125f729ac87b655345fb25becff078d8cef7bf"
+hash = "c7da4d60edefaf8dc754eb85ad6208b33cae962d895ae64219a7fafc7ff79d33"
 metafile = true
 
 [[files]]
