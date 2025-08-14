@@ -5,88 +5,8 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/alexsmobs/bunfungus_spawns.json"
-hash = "e24a4e33a7e9a31ad79bb0d88ffd6adc90740557eef2c352e9a2d4d10dc8f44d"
-
-[[files]]
-file = "config/alexsmobs/cockroach_spawns.json"
-hash = "72956f77b5524a18d7e36c37c3399cf81009b2943ccff1fb3d0255546fd0743f"
-
-[[files]]
-file = "config/alexsmobs/cosmaw_spawns.json"
-hash = "6de7c62d81310efd1cc30dd1914df4282b3b24ea40515fc06d21d3e301275818"
-
-[[files]]
-file = "config/alexsmobs/cosmic_cod_spawns.json"
-hash = "67ec8ab4f5237f7702a972525d5dda51409b295a799379a3cc73fbce324af77d"
-
-[[files]]
-file = "config/alexsmobs/crimson_mosquito_spawns.json"
-hash = "3bbb9d1bf3264bfa463007f5fcbf1979aaf37ce249eabfdb9f6572cc5a20e120"
-
-[[files]]
-file = "config/alexsmobs/dropbear_spawns.json"
-hash = "783e0c156ad39cd2bd1acdd1bce0b5aa24fabd84cdacde4fdcc438398adca5e5"
-
-[[files]]
-file = "config/alexsmobs/endergrade_spawns.json"
-hash = "01a1147efb4b6c9b5ed4d77ad7a83de3fce747d1e8bd3133c50911d4d33ac398"
-
-[[files]]
-file = "config/alexsmobs/flutter_spawns.json"
-hash = "a0f199d131113f94926c53cd5205747b480e172ca82d7e0572d094edd9eaaad2"
-
-[[files]]
-file = "config/alexsmobs/fly_spawns.json"
-hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
-
-[[files]]
-file = "config/alexsmobs/froststalker_spawns.json"
-hash = "34f59335c233089ba8c03177cdc5ea2c7b580959f844b1a18bd572a610b32d20"
-
-[[files]]
-file = "config/alexsmobs/guster_spawns.json"
-hash = "78266c631a9a93cbd4ee2f4fc3791b0323e2c515a0e4c999219ed1b0757eeb20"
-
-[[files]]
-file = "config/alexsmobs/mimicube_spawns.json"
-hash = "cf781493dd8fa312ba3871a0cbeac3a34cd28d2ee2373ac4911c0df0f2b041f2"
-
-[[files]]
-file = "config/alexsmobs/mungus_spawns.json"
-hash = "e24a4e33a7e9a31ad79bb0d88ffd6adc90740557eef2c352e9a2d4d10dc8f44d"
-
-[[files]]
-file = "config/alexsmobs/murmur.json"
-hash = "7613e8d447c7a817a00fe33dc2aaf212bff5d5cb95a3863e31f60be64caf5e0b"
-
-[[files]]
-file = "config/alexsmobs/rocky_roller_spawns.json"
-hash = "2dc470951a3de209ef7f513ef7bac8b2244bb6e4661e2899bf6600939d781e28"
-
-[[files]]
-file = "config/alexsmobs/skelewag_spawns.json"
-hash = "77438f9bef735f06bc0364162902e3d6873887df491dc30d5b6dbcc4b023361f"
-
-[[files]]
-file = "config/alexsmobs/skreecher.json"
-hash = "b23e5ca703b89111f2b297beb852340d73f0e89954dd814ffaaa0c09962b8c0d"
-
-[[files]]
-file = "config/alexsmobs/straddler_spawns.json"
-hash = "c0d7f3da8c9c5d630790dcdf79cbfed746a7c6a6aff3da0036156b6fa681dacf"
-
-[[files]]
-file = "config/alexsmobs/stradpole_spawns.json"
-hash = "c0d7f3da8c9c5d630790dcdf79cbfed746a7c6a6aff3da0036156b6fa681dacf"
-
-[[files]]
-file = "config/alexsmobs/sunbird_spawns.json"
-hash = "e3cdd88b33f3134957fed53c474422c28581070d83a6e3bc334b1f67db918d70"
-
-[[files]]
-file = "config/alexsmobs/warped_toad_spawns.json"
-hash = "01f5677d4a874664521105036779b7dc698a4af350a7bcb388a788b65de8077b"
+file = "config/badmobs-common.toml"
+hash = "3db5d1ec9c8c37e6075f4d0b0715b37a975fd569096f0fb93505d94acfcb66f3"
 
 [[files]]
 file = "config/biomeswevegone/mob_spawn.json"
@@ -123,6 +43,10 @@ hash = "1e81adbec43c2fbef832c82a34e7e155d3c5e301ce3327507c9f8a53aa084041"
 [[files]]
 file = "config/incontrol/spawn.json"
 hash = "db4ad1fb9b6cf9ebe8e6fc778afb6948028622e00a88d080f0893e485cd7fb5b"
+
+[[files]]
+file = "config/mobsunscreen-common.toml"
+hash = "9c2f37b82a1f2a394aaa5d5dd690c66c59b15f9c4faba0885ea908787cb0704e"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -719,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
 hash = "8b2166e4981dbf5c11bce86917f68bf500ce5132ed8425936846e99e4d11c373"
+metafile = true
+
+[[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "6406896463cb7c34d86cbe583b6fb2852c2306129d9770e403d817ac451a81a4"
 metafile = true
 
 [[files]]
@@ -1407,6 +1336,46 @@ hash = "ca5bfe1a7a7bd7d60d488281bb4dab2f0297f181a1480acc0ca6643934c9dab9"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "58148fa22c72e0b0eac5e35fed0be9194ad59fe848298c1b61b565fa3158b2f4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "31fca121c5b55c624ed203937c8f9b4d13cfe32f80bb85405aa4c65238378b15"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "24876f77eefbda53cbeb1b3261dadd63e37f46389d184380e1e3f1f04d1f93f3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "a5af976bf45b8e0aaaa22bebb11504ef0687e90d2cff9d3fa3b648c0757c1446"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "e0d77569aa19c6b72d30cb895cef575837a5740bee489d3ae537edf40a900ab1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "18e0db08323413e9ad0c0959ca71d700f72a53dcd9fa5eb368cacc62c65168db"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "96d6c44c700a2baefe1c24ac8d592b644b1926bd0bec591bfed4f3ccfc35a91e"
+metafile = true
+
+[[files]]
 file = "mods/zeta.pw.toml"
 hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
 metafile = true
@@ -1417,8 +1386,8 @@ hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-leaves.pw.toml"
-hash = "5507b242a9db7237f92f75009d0036fc606ccbde30de9ad520dac873812126ab"
+file = "resourcepacks/als-creepers-revamped.pw.toml"
+hash = "c6337ab2e9ee7160b328e62b2553fc7b266d77bde212720553c3b515cce7b281"
 metafile = true
 
 [[files]]
@@ -1439,6 +1408,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/low-fire-pack.pw.toml"
 hash = "2215365751320cf23b2b12b0491801f360b9b774c8a07e1135b3ed97058be124"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mobs-refreshed-+-fresh-animations.pw.toml"
+hash = "14c958fa07ef8887020adddba0e80d64599d62cc99b3f2e79fb2b8344b8cf118"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mobs-refreshed.pw.toml"
+hash = "dacb736bd810a3841fc924efee125f729ac87b655345fb25becff078d8cef7bf"
 metafile = true
 
 [[files]]
