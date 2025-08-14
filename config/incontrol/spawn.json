@@ -1,0 +1,14 @@
+[
+    {
+        "mob": "minecraft:zombie",
+        "baby": "true",
+        "when": "onjoin",
+        "result": "deny"
+    },
+    {
+        "mob": "minecraft:zombie",
+        "when": "finalize",
+        "result": "default",
+        "speedmultiply": 1.5
+    }
+]
