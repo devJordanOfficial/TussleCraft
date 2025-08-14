@@ -38,7 +38,7 @@ hash = "b5d138ded0fb3ff11b5d07198420bc7f24f9eaff6bc938f4b972bd788de8daee"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "0ab40fed9f2ce906b32b2134d940ee963f6587d7ea3c9ec37342e5d7bc0837a7"
+hash = "8fb9dc4bc3edcf4299a7adf94392851a3dd563b91ddc4c66cb1feb3718d7f52e"
 
 [[files]]
 file = "config/incontrol/spawn.json"
@@ -46,11 +46,11 @@ hash = "db4ad1fb9b6cf9ebe8e6fc778afb6948028622e00a88d080f0893e485cd7fb5b"
 
 [[files]]
 file = "config/mobsunscreen-common.toml"
-hash = "9c2f37b82a1f2a394aaa5d5dd690c66c59b15f9c4faba0885ea908787cb0704e"
+hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "65186c9c43cd6b81b9f0db577ac6a2425dcdea026ff1f33d56d04cdcbb5841e5"
+hash = "36aea7bac1128ca38e6c1f1157acbbc93fe17c914c841aeef4932652b14d2e0e"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"

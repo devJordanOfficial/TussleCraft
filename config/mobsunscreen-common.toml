@@ -7,5 +7,5 @@
 	#Protects these mods from fire (any mobs with these namespaces)
 	mods = ["iceandfire"]
 	#Protects these mobs from fire (any mobs with these ids (namespace:name))
-	mobs = ["minecraft:zombie"]
+	mobs = ["minecraft:zombie", "minecraft:zombie_villager"]
 

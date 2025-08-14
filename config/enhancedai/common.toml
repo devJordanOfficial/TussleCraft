@@ -131,14 +131,14 @@
 
 [Villagers]
 	#Make villagers fight back. Use the enhancedai:villagers_can_attack entity type tag to add more villagers.
-	"Enable Villager Attacking" = false
+	"Enable Villager Attacking" = true
 
 	#Make villagers fight back. Use the enhancedai:villagers_can_attack entity type tag to add more villagers.
 	[Villagers."Villager Attacking"]
 		#If true, when attacked, villagers will call other villagers for help and attack back. Attack damage can't be changed via config due to limitation so use mods like Mobs Properties Randomness to change the damage. Base damage is 4
 		"Villagers Fight back" = true
 		#If false villagers will not attack back monsters
-		"Villagers Fight back Enemies" = false
+		"Villagers Fight back Enemies" = true
 		#Villagers will only attack players that have below this reputation (like Iron Golems by default). https://minecraft.wiki/w/Villager#Gossiping
 		#Range: > -2147483648
 		"Reputation for Fight back" = -100
