@@ -582,17 +582,17 @@ metafile = true
 
 [[files]]
 file = "mods/formations-nether.pw.toml"
-hash = "0afffd423f22bb5e19129f3cd9183031f1c65b39bbeb68314ea621a42d8514e0"
+hash = "a13d15f2efbb6ec441dd59bcdc47342abe004035254156d1c31675436bb92ff8"
 metafile = true
 
 [[files]]
 file = "mods/formations-overworld.pw.toml"
-hash = "16d5efbb4c0c97fd9b5474a6f7d51e3ce4caf0c9dd7fdb16df9110be9755b6dc"
+hash = "d1b043070d2dcc46956e73e7b53f9fc62aa8d36dc6b340203dc825a3cec7ec35"
 metafile = true
 
 [[files]]
 file = "mods/formations.pw.toml"
-hash = "3b5c4d5d1f7f3501be3715228c39d61b053485112cb4a6d56c45ac9cfc41ca52"
+hash = "9ee68d3b3b1a727f1ed19a704fc137db3f825a989057c2d9a6ba95fda33f5f2b"
 metafile = true
 
 [[files]]
