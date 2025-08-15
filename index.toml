@@ -335,11 +335,6 @@ hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
 metafile = true
 
 [[files]]
-file = "mods/chunkyborder.pw.toml"
-hash = "a8c32dd6c7429c845768034fcf41a9b68c56bdd1fce243bcd58ac78859fd50e7"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
 metafile = true
