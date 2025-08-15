@@ -436,11 +436,6 @@ hash = "95083b16bf6d75561e763911e12bf1d6e0fe62e244c82a48cb2ff18b75ec324f"
 metafile = true
 
 [[files]]
-file = "mods/durability-tooltip.pw.toml"
-hash = "0bd3d604bc61c7460977b177bd9db979a6c235c55e8d1cd981dba1620ec80af8"
-metafile = true
-
-[[files]]
 file = "mods/dyenamics.pw.toml"
 hash = "6f093c73d8bc0ce4f6dd9789bd429fd4cbd259eddbe2853bb3142a863df2b73b"
 metafile = true
@@ -548,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "a828c60907bd972cb75263bce3bd6bacfb31b98ccb3d5556ad10c7be81258e5d"
+metafile = true
+
+[[files]]
+file = "mods/feathers.pw.toml"
+hash = "bf42d9e218cf968d5c0dc0f44ba6b9886deaadcd5ae155f5b04e29e8c82653d5"
 metafile = true
 
 [[files]]
@@ -1006,11 +1006,6 @@ hash = "f16fd7fba2242ba733897eeaaa09cb27e01a438d240e175a26c956319f8a1561"
 metafile = true
 
 [[files]]
-file = "mods/notenoughrecipebook.pw.toml"
-hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
-metafile = true
-
-[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
@@ -1053,6 +1048,11 @@ metafile = true
 [[files]]
 file = "mods/parcool.pw.toml"
 hash = "338a51e485c29877fd3f86322c6567dd25b2c6b95c82175403f6618457bd9517"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
 
 [[files]]
