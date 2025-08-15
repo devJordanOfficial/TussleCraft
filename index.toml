@@ -50,7 +50,7 @@ hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "36aea7bac1128ca38e6c1f1157acbbc93fe17c914c841aeef4932652b14d2e0e"
+hash = "324f15d91b914dedf712acbb4e176dd475bb059f3dca7debad5ee2b5ce167ea1"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
@@ -1443,6 +1443,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/als-creepers-revamped.pw.toml"
 hash = "c6337ab2e9ee7160b328e62b2553fc7b266d77bde212720553c3b515cce7b281"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-spartan-ores.pw.toml"
+hash = "72c93b2a68438c175f836c0fbca7c885e19cdfd5c477f07a571c47c36e7b5116"
 metafile = true
 
 [[files]]

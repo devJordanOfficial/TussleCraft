@@ -1,0 +1,7 @@
+name = "better-spartan-ores"
+filename = "BetterSpartanOres.zip"
+
+[download]
+url = "https://www.infamousgc.com/files/tusslecraft/BetterSpartanOres.zip"
+hash-format = "sha256"
+hash = "cff1d4ed405e96cea4da46a8ccbd59efafb5e15db6b776971c407313eb780466"

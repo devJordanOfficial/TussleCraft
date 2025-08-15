@@ -13,8 +13,7 @@
     "file/Cod Zombies Voice Pack.zip",
     "file/Low Fire.zip",
     "file/Gentler Weather Sounds.zip",
-    "file/Better-Leaves-9.2.zip",
-    "file/Dramatic Skys Demo 1.5.3.33.zip"
+    "file/BetterSpartanOres.zip"
   ],
 
   "pack_overrides": {
@@ -29,7 +28,8 @@
       "file/TZP_1.20.1_2.7.zip",
       "file/Cod Zombies Voice Pack.zip",
       "file/Low Fire.zip",
-      "file/Gentler Weather Sounds.zip"
+      "file/Gentler Weather Sounds.zip",
+      "file/BetterSpartanOres.zip"
     ],
     "$$required": {
       "required": true,
