@@ -5,6 +5,38 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/Feathers-Client.toml"
+hash = "c56be45e59279107cbda7e11a8c4e46a0431b1eeac45899a0dc4a74819723134"
+
+[[files]]
+file = "config/LibertyVillagers.json"
+hash = "48fea50e6406cec7af938ebccfb24a9a870f3e52578838f500eec398c9b154c5"
+
+[[files]]
+file = "config/alexsmobs.toml"
+hash = "98d79e57ba28faed11f67635763de3844624872b7d2a91affc6dcb309e30d2af"
+
+[[files]]
+file = "config/allurement-common.toml"
+hash = "11e824bd5e288ed29030cf81a00bdcc7087f0027278df60708c7084bb08a4a96"
+
+[[files]]
+file = "config/amendments-common.toml"
+hash = "f1aa551ae9be6aeeea5de4e1fb6f20fa212b0d1d2032de335855a44a468859f8"
+
+[[files]]
+file = "config/antique-atlas.toml"
+hash = "ce5eec062821bdf519572027f71bbfab5783329d75447472814749a812e79226"
+
+[[files]]
+file = "config/backpacked.client.toml"
+hash = "79ea236ff192294990a818ab8af314e2e7bffc39bd7942a60e121c18e0898bba"
+
+[[files]]
+file = "config/backpacked.server.toml"
+hash = "580988cacd29eb27492b226e18cf3f1ae66619d6a4398c61a3ad70af43d351e5"
+
+[[files]]
 file = "config/badmobs-common.toml"
 hash = "3db5d1ec9c8c37e6075f4d0b0715b37a975fd569096f0fb93505d94acfcb66f3"
 
@@ -17,8 +49,12 @@ file = "config/biomeswevegone/world_generation.json5"
 hash = "19a88c92bb13068ac8c45c1bf4ed656a51d974f9c35734e4a03d1e0b1990f095"
 
 [[files]]
+file = "config/chloride-client.json"
+hash = "5af865157a6521829d63588a2fe33346ae5338dfb5703695165531a449983c25"
+
+[[files]]
 file = "config/coldsweat/client.toml"
-hash = "7257732a8e6438c203bd8010daa8be7a5cea3b35fe8ccb0fcef870ac28bf0dcd"
+hash = "5adae683c9932c8e366e800d32fe122a0ff777e6ae4d1a01cbcc5ebeee14aad3"
 
 [[files]]
 file = "config/coldsweat/entity.toml"
@@ -29,8 +65,16 @@ file = "config/coldsweat/item.toml"
 hash = "d7de9d6ea078372c4c37b8ab5b21f94517b87661b37c09a4aa2b3e567da302de"
 
 [[files]]
+file = "config/combatnouveau-server.toml"
+hash = "dcfe351e52d05e44baa67f51854a1b123fdb100bccaa28a2f5d56910897cb340"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "cdac9cd718e9d0561b5f7c088f88f0709060f4048c4bb04ba3b29532f16a667a"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "2d8964eb15458e3575ec8f407b6c088e3a0c89f262cb9084cfbc712edee851e9"
 
 [[files]]
 file = "config/enhancedai/Break Anger/break_anger_config.json"
@@ -41,20 +85,60 @@ file = "config/enhancedai/common.toml"
 hash = "8fb9dc4bc3edcf4299a7adf94392851a3dd563b91ddc4c66cb1feb3718d7f52e"
 
 [[files]]
+file = "config/farmersdelight-common.toml"
+hash = "d42ecc74db51fd5a62df84456b596d1ce0b8b6f7ae43f65b4ca3b97c045b53cc"
+
+[[files]]
+file = "config/hardcorerevival-common.toml"
+hash = "41796cde1db55a6e5bb574b9d96a4171cc67a5d839719c43ca2fbdc75207eb39"
+
+[[files]]
+file = "config/immersive_aircraft.json"
+hash = "e9fb72ee9095acdfb7f254ade07baf09acd8788ec85805ba641fbaeb1f958568"
+
+[[files]]
 file = "config/incontrol/spawn.json"
 hash = "db4ad1fb9b6cf9ebe8e6fc778afb6948028622e00a88d080f0893e485cd7fb5b"
+
+[[files]]
+file = "config/legendarytooltips-common.toml"
+hash = "690a0f2be74f7504f9dc4094e57f9f53333533c94bafdda44114a64f7c10d067"
 
 [[files]]
 file = "config/mobsunscreen-common.toml"
 hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
+file = "config/parcool-client.toml"
+hash = "b112731cdfc1c4daec609f31191017ee97c509bef6c1ab3f638c62adf13adf10"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "3a9d27ddf80a1cf67e71bb1dd07654341eb94607cc5347ebafdb834f17b03e12"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "324f15d91b914dedf712acbb4e176dd475bb059f3dca7debad5ee2b5ce167ea1"
 
 [[files]]
+file = "config/seasonhud-client.toml"
+hash = "67b66978abc298c0db6cf9f759686c3785012a8ec3606cc50196075e0e158577"
+
+[[files]]
+file = "config/securitycraft-client.toml"
+hash = "37d6f3b7b8461c3e031679a0e32bc45cd8a7350057f8ac32039074aa279ec4f7"
+
+[[files]]
 file = "config/sereneseasons/seasons.toml"
 hash = "c097e23f29c99f745bcaf2cdcd0d317f40ee597288a8bb6b51a2da05e54da91f"
+
+[[files]]
+file = "config/stylisheffects-client.toml"
+hash = "18d8bf84409cb28e234e6cfa42039b3120b4ae5ffb20583874faf7641ce1a229"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "993165338e87a5561b4ad7adb2e958bdac59e3e8251a0a90d48e3702ea0d2566"
 
 [[files]]
 file = "config/thirst/common.toml"
@@ -243,6 +327,16 @@ metafile = true
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "a8c32dd6c7429c845768034fcf41a9b68c56bdd1fce243bcd58ac78859fd50e7"
 metafile = true
 
 [[files]]

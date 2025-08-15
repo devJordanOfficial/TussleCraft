@@ -1,0 +1,13 @@
+name = "Chunky Border"
+filename = "ChunkyBorder-1.1.59.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s86X568j/versions/bbkEgTVB/ChunkyBorder-1.1.59.jar"
+hash-format = "sha512"
+hash = "6f9786b0b3af775a8a3fec52fdd920abdc3272e7b19715eef7454392e76f14d91296c88b3dd02203ff326259691e39203eee0f54872a7bce56023a0bd2cff81f"
+
+[update]
+[update.modrinth]
+mod-id = "s86X568j"
+version = "bbkEgTVB"
