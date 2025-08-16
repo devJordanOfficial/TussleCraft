@@ -617,11 +617,6 @@ hash = "02bfc7a861d68c813e3493acae3b91d541139c9b4c4bf626dace8941a7344b3b"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-hordes.pw.toml"
-hash = "fab637d56fc710f47c0a1419ac61aa29ef74140d191d34e5271e0c4275cd1bd1"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
 metafile = true
