@@ -65,7 +65,7 @@
 	#Enable first-person-view animations
 	enable_fpv_animation = true
 	#Enable rotation of camera by Dodge
-	enable_camera_rotation_dodge = true
+	enable_camera_rotation_dodge = false
 	#Enable rotation of camera by Backward Wall-Jump
 	enable_camera_rotation_back_wall_jump = true
 	#Enable rotation of camera by Roll
@@ -119,7 +119,7 @@
 	flip_control = "TapMovementAndJump"
 	#Control of Horizontal Wall Run
 	#Allowed Values: PressKey, Auto
-	h-wall-run_control = "Auto"
+	h-wall-run_control = "PressKey"
 	#Control of Wall Jump
 	#Allowed Values: PressKey, ReleaseKey
 	wall-jump_control = "PressKey"

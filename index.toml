@@ -122,7 +122,7 @@ hash = "d0cc0e21e17d66a8cbb4bd700188dbd1833224c306398ac42d1f14dd8d8877fb"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "b112731cdfc1c4daec609f31191017ee97c509bef6c1ab3f638c62adf13adf10"
+hash = "14baa6ba1a0e8cef1aeac186f8e3d90c602519a85351d8b4331757c591df31b2"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -130,7 +130,11 @@ hash = "3a9d27ddf80a1cf67e71bb1dd07654341eb94607cc5347ebafdb834f17b03e12"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "324f15d91b914dedf712acbb4e176dd475bb059f3dca7debad5ee2b5ce167ea1"
+hash = "ba11f0ac1875308613419acdaec94d753f0f13ff735e1972b784b48572798a54"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "65d8ba51d9c22b2847de192e2edced46e687ea6b0b22439d7f34449b8b1a8233"
 
 [[files]]
 file = "config/seasonhud-client.toml"
@@ -142,7 +146,11 @@ hash = "37d6f3b7b8461c3e031679a0e32bc45cd8a7350057f8ac32039074aa279ec4f7"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "c097e23f29c99f745bcaf2cdcd0d317f40ee597288a8bb6b51a2da05e54da91f"
+hash = "4d4cb413aaa2c1288e0a2089ba9cea954a9e66ad660b0a069cd6af3484fbd729"
+
+[[files]]
+file = "config/smallships-client.toml"
+hash = "0f04311fe82fa4d9c3164d5b6b465a2f0dae418e991505b2df265b8249998d4d"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
@@ -155,6 +163,10 @@ hash = "993165338e87a5561b4ad7adb2e958bdac59e3e8251a0a90d48e3702ea0d2566"
 [[files]]
 file = "config/thirst/common.toml"
 hash = "a4235fbb8242facd800094f26bcae11cd6d8f51818ff5622f4bfa2b9bef6a831"
+
+[[files]]
+file = "config/utilitarian-common.toml"
+hash = "af7ec3581a79fa388c42b6e818e512d245b345b47e381b89ef8c757af107bb9d"
 
 [[files]]
 file = "defaultconfigs/gravestone-server.toml"
@@ -560,6 +572,11 @@ hash = "95083b16bf6d75561e763911e12bf1d6e0fe62e244c82a48cb2ff18b75ec324f"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
+metafile = true
+
+[[files]]
 file = "mods/dyenamics.pw.toml"
 hash = "6f093c73d8bc0ce4f6dd9789bd429fd4cbd259eddbe2853bb3142a863df2b73b"
 metafile = true
@@ -832,6 +849,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "b5155604a98bb5fd86e378ebe636030ed76d799d83f98a9dbbbfcb534f503d30"
 metafile = true
 
 [[files]]
@@ -1315,6 +1337,11 @@ hash = "5798e9e8dfe1c0fcdbbfa6bd18a13f385114d019d0142cd7072b2d4cafd841d9"
 metafile = true
 
 [[files]]
+file = "mods/simple-menu.pw.toml"
+hash = "254034d504362bf48c6267e60b83b227c4a47a42827f592682939d9879939451"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "34e036f376828c9ddb96fdd42f11603dca88a735bf59ae8f609850aea3a67d68"
 metafile = true
@@ -1590,6 +1617,11 @@ hash = "aa9cf6fb9dffa49b88f53ac0020a9b109b49025535c1e3f218476060021cc835"
 metafile = true
 
 [[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "88496e670b35be0585d76f593cad1e59e76e7e9c4a014d5e8e4ce8c8b8e29986"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
@@ -1602,6 +1634,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/low-fire-pack.pw.toml"
 hash = "2215365751320cf23b2b12b0491801f360b9b774c8a07e1135b3ed97058be124"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "8ae3d6966d6ae701ea2615a87838536942cb6d7eba690ae33720a82850315d27"
 metafile = true
 
 [[files]]

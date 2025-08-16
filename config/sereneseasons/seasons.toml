@@ -17,7 +17,7 @@
 	#4 - 6 = Early/Mid/Late Summer
 	#7 - 9 = Early/Mid/Late Autumn
 	#10 - 12 = Early/Mid/Late Winter
-	starting_sub_season = 1
+	starting_sub_season = 4
 	#If the season should progress on a server with no players online
 	progress_season_while_offline = true
 

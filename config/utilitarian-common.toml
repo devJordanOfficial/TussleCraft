@@ -1,0 +1,14 @@
+
+["No Startup Messages"]
+	#Enable No Startup Messages module
+	noStartupMessagesEnabled = true
+	#A list of word sequences that if contained in a message will be stopped.
+	noStartupMessagesMessages = [
+		"Hello, thank you for downloading Terralith",
+		"Thank you for using Kiwi and Snowee's other mods!"
+	]
+
+[Recipes]
+	#Disable recipe advancements
+	disableRecipeAdvancements = true
+
