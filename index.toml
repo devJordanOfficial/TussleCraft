@@ -69,8 +69,16 @@ file = "config/combatnouveau-server.toml"
 hash = "dcfe351e52d05e44baa67f51854a1b123fdb100bccaa28a2f5d56910897cb340"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "30e115be3b0c42c3d788be1c211cdbd56cc64cb49a67d22df793052260eed550"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
-hash = "cdac9cd718e9d0561b5f7c088f88f0709060f4048c4bb04ba3b29532f16a667a"
+hash = "88197565db0d11f2eef48fda452e477af32a1e149a04bcc5de8d4513b40d725d"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "9c905265a89ce7aceddf0f801eca1cfd894082edb91865bdba0a560282a62802"
 
 [[files]]
 file = "config/embeddium-options.json"

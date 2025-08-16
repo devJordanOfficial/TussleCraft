@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Moonlight Mods Dynamic Assets","mod_resources","builtin/add_pack_finders_test","file/FreshAnimations_v1.9.2.zip","file/Create+Simple+Storage+2.1.zip","file/TZP_1.20.1_2.7.zip","file/Cod Zombies Voice Pack.zip","file/Low Fire.zip","file/Gentler Weather Sounds.zip"]
-incompatibleResourcePacks:["file/Cod Zombies Voice Pack.zip","file/Gentler Weather Sounds.zip"]
+resourcePacks:["vanilla","Moonlight Mods Dynamic Assets","mod_resources","builtin/add_pack_finders_test","file/FreshAnimations_v1.9.2.zip","file/Create+Simple+Storage+2.1.zip","file/TZP_1.20.1_2.7.zip","file/Cod Zombies Voice Pack.zip","file/Low Fire.zip","file/Gentler Weather Sounds.zip","fabric","file/AL\u0027s Creepers Revamped 1.3.zip","file/BetterSpartanOres.zip","file/mobs-refreshed-fa-v2.2.zip","chloride_solid_beds","file/MandalasGUI_Dakmode_Vanilla1.20.4.zip","file/[1.4.1] Enhanced Boss Bars.zip"]
+incompatibleResourcePacks:["file/Cod Zombies Voice Pack.zip","file/Gentler Weather Sounds.zip","file/AL\u0027s Creepers Revamped 1.3.zip","file/mobs-refreshed-fa-v2.2.zip","file/MandalasGUI_Dakmode_Vanilla1.20.4.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -88,11 +88,11 @@ soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
-soundCategory_block:1.0
-soundCategory_hostile:1.0
-soundCategory_neutral:1.0
+soundCategory_block:0.751173708920188
+soundCategory_hostile:0.7535211267605634
+soundCategory_neutral:0.5070422535211268
 soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_ambient:0.20657276995305152
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true
