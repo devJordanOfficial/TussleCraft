@@ -1138,6 +1138,11 @@ hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-modpack-version-checker.pw.toml"
+hash = "5f4416c8dd05637bc0d44908b88b25c003546c17a0d0bd299dbf8f82eeea9f79"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
@@ -1195,11 +1200,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
-metafile = true
-
-[[files]]
-file = "mods/prehistoric-legacy.pw.toml"
-hash = "a1d5f5287ef2ad9f2135f3024942b60d7a2153e0734b7dd65e788ff77f023a23"
 metafile = true
 
 [[files]]

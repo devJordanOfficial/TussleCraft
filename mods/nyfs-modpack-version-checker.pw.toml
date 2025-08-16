@@ -1,0 +1,13 @@
+name = "Nyf's Modpack Version Check"
+filename = "nmpvc-forge-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PqP9d81Z/versions/3xO7lotw/nmpvc-forge-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "ad2f51b791a09fae7a07035fa26dce70c9c708dbf0b6c985f4f7b5e33c6333e2c9e26f67cc6fc3707b630cd7009b6f853fc3e2a7f9919993e80e16d3f4c6e84c"
+
+[update]
+[update.modrinth]
+mod-id = "PqP9d81Z"
+version = "3xO7lotw"
