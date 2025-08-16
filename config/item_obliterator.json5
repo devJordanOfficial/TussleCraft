@@ -1,0 +1,86 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  // Do not touch this
+  "configVersion": 2,
+  // -----------------------------------------------------------
+  // Items here will be unusable completely
+  //    Example: minecraft:diamond
+  "blacklisted_items": [
+    "minecraft:elytra",
+    "supplementaries:quiver",
+    "securitycraft:keypad_frame",
+    "alexsmobs:blood_sac",
+    "alexsmobs:mosquito_proboscis",
+    "alexsmobs:blood_sprayer",
+    "alexsmobs:mosquito_larva",
+    "alexsmobs:mimicream",
+    "alexsmobs:cockroach_wing_fragment",
+    "alexsmobs:cockroach_wing",
+    "alexsmobs:cockroach_ootheca",
+    "alexsmobs:warped_muscle",
+    "alexsmobs:hemolymph_sac",
+    "alexsmobs:hemolymph_blaster",
+    "alexsmobs:hemolymph_blaster",
+    "alexsmobs:tarantula_hawk_wing_fragment",
+    "alexsmobs:tarantula_hawk_wing",
+    "alexsmobs:tarantula_hawk_elytra",
+    "alexsmobs:mysterious_worm",
+    "alexsmobs:void_worm_mandible",
+    "alexsmobs:void_worm_eye",
+    "alexsmobs:dimensional_carver",
+    "alexsmobs:shattered_dimensional_carver"
+  ],
+  // -----------------------------------------------------------
+  // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+  // 	
+  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+  // 	
+  // 	 You can also use regular expressions by starting the value with !
+  "blacklisted_nbt": [
+    "Potion:\"mysticpotions:undying\"",
+    "Potion:\"mysticpotions:long_undying\"",
+    "Potion:\"mysticpotions:air_swim\"",
+    "Potion:\"mysticpotions:long_air_swim\"",
+    "Potion:\"mysticpotions:homing\"",
+    "Potion:\"mysticpotions:recovery\"",
+    "Potion:\"mysticpotions:explosive\"",
+    "Potion:\"mysticpotions:strong_explosive\"",
+    "Potion:\"mysticpotions:extra_strong_explosive\"",
+    "Potion:\"mysticpotions:corrosive\"",
+    "Potion:\"mysticpotions:strong_corrosive\"",
+    "Potion:\"mysticpotions:protection\"",
+    "Potion:\"mysticpotions:long_protection\"",
+    "Potion:\"mysticpotions:strong_protection\""
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be right-clicked (Interact)
+  //    Example: minecraft:apple
+  "only_disable_interactions": [],
+  // -----------------------------------------------------------
+  // Items here will not be able to be used to attack
+  //    Example: minecraft:diamond_sword
+  "only_disable_attacks": [],
+  // -----------------------------------------------------------
+  // Items here will get their recipes disabled
+  // Keep in mind this already is applied to blacklisted items
+  "only_disable_recipes": [],
+  // -----------------------------------------------------------
+  // If true, the mod will use a hashset to handle the blacklisted items
+  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+  // If you just have a small amount of items blacklisted, keep this false
+  //  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": true
+}

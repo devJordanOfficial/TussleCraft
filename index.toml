@@ -101,6 +101,10 @@ file = "config/incontrol/spawn.json"
 hash = "db4ad1fb9b6cf9ebe8e6fc778afb6948028622e00a88d080f0893e485cd7fb5b"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "24a8c7caedb2b2d2a8048fc1b6a0992067d210cc14355bf450ba065c1bb27d60"
+
+[[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "690a0f2be74f7504f9dc4094e57f9f53333533c94bafdda44114a64f7c10d067"
 
@@ -1482,6 +1486,11 @@ metafile = true
 [[files]]
 file = "mods/wwoo.pw.toml"
 hash = "ca5bfe1a7a7bd7d60d488281bb4dab2f0297f181a1480acc0ca6643934c9dab9"
+metafile = true
+
+[[files]]
+file = "mods/you-cant-sleeping.pw.toml"
+hash = "e999a679301c261b2c47eef46be753df8321a29a6087b579f959fd64fdd244cc"
 metafile = true
 
 [[files]]
