@@ -734,6 +734,11 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
+file = "mods/global-gamerules.pw.toml"
+hash = "e9a98d3833dfc94c66fab2fee62befc53b72dfe6962b78122eadd372be88dbbe"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "1216c309abd2dfb6b0b0d7b7671ddeafef0737f95006896286ac541307275f35"
 metafile = true
@@ -1281,11 +1286,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "34e036f376828c9ddb96fdd42f11603dca88a735bf59ae8f609850aea3a67d68"
-metafile = true
-
-[[files]]
-file = "mods/sleep-blocker.pw.toml"
-hash = "e7acd264ea68d1a86581fafd166de31276b9f3ef8cafe9bbfb1f462c1aab481b"
 metafile = true
 
 [[files]]
