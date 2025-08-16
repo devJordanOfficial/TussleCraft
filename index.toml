@@ -1284,6 +1284,11 @@ hash = "34e036f376828c9ddb96fdd42f11603dca88a735bf59ae8f609850aea3a67d68"
 metafile = true
 
 [[files]]
+file = "mods/sleep-blocker.pw.toml"
+hash = "e7acd264ea68d1a86581fafd166de31276b9f3ef8cafe9bbfb1f462c1aab481b"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "051a8937ed53267faa86fb53695f6e84a4fdf66d905cb9f3873e5498a6e66ab5"
 metafile = true
@@ -1486,11 +1491,6 @@ metafile = true
 [[files]]
 file = "mods/wwoo.pw.toml"
 hash = "ca5bfe1a7a7bd7d60d488281bb4dab2f0297f181a1480acc0ca6643934c9dab9"
-metafile = true
-
-[[files]]
-file = "mods/you-cant-sleeping.pw.toml"
-hash = "e999a679301c261b2c47eef46be753df8321a29a6087b579f959fd64fdd244cc"
 metafile = true
 
 [[files]]

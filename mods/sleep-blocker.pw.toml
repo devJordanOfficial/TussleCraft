@@ -1,0 +1,13 @@
+name = "Sleep Blocker"
+filename = "sleepblocker-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41b0e2bbe46d27fcc0ef1bd8328f2b20b9662e31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6491572
+project-id = 1257554
