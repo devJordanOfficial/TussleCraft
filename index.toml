@@ -41,6 +41,10 @@ file = "config/badmobs-common.toml"
 hash = "3db5d1ec9c8c37e6075f4d0b0715b37a975fd569096f0fb93505d94acfcb66f3"
 
 [[files]]
+file = "config/bettermodsbutton-client.toml"
+hash = "961af5e291950199a51a0eda8d66c6d3ae504d8681a6ca4ea4c3c1edb1170d17"
+
+[[files]]
 file = "config/biomeswevegone/mob_spawn.json"
 hash = "ba6da2fc87f03e7b2796c9528780e71c4d3f1592c7189f4ec1cc54950ffd2c87"
 
@@ -155,6 +159,22 @@ hash = "37d6f3b7b8461c3e031679a0e32bc45cd8a7350057f8ac32039074aa279ec4f7"
 [[files]]
 file = "config/sereneseasons/seasons.toml"
 hash = "4d4cb413aaa2c1288e0a2089ba9cea954a9e66ad660b0a069cd6af3484fbd729"
+
+[[files]]
+file = "config/simplemenu.json5"
+hash = "31eb6f06f61f4945877209eb1ed1087d5c12c82a8a5cc41c73bf9eb8e1591e11"
+
+[[files]]
+file = "config/simplemenu/background/background.png"
+hash = "0fdd52280b9d6a7097fc0b4900ea461ea31240986ce2233acab568d120991b9e"
+
+[[files]]
+file = "config/simplemenu/logo/edition.png"
+hash = "6388ef2513e3a38cf4fe4236cfde7ac175a3538c5611b75508a44925bc0aaae2"
+
+[[files]]
+file = "config/simplemenu/logo/logo.png"
+hash = "10e43cef0169e6db266990ba8811f92639f07a0ee411973398e14cc875fcd654"
 
 [[files]]
 file = "config/smallships-client.toml"
@@ -1646,7 +1666,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mobs-refreshed.pw.toml"
-hash = "c7da4d60edefaf8dc754eb85ad6208b33cae962d895ae64219a7fafc7ff79d33"
+hash = "33f9b86107513e98b753a4d6cf8bc3550adea208ac7c92f516b8d35428a2f982"
 metafile = true
 
 [[files]]
