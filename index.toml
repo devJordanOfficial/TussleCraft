@@ -117,6 +117,10 @@ file = "config/mobsunscreen-common.toml"
 hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
+file = "config/nmpvc-common.toml"
+hash = "d0cc0e21e17d66a8cbb4bd700188dbd1833224c306398ac42d1f14dd8d8877fb"
+
+[[files]]
 file = "config/parcool-client.toml"
 hash = "b112731cdfc1c4daec609f31191017ee97c509bef6c1ab3f638c62adf13adf10"
 
@@ -151,6 +155,14 @@ hash = "993165338e87a5561b4ad7adb2e958bdac59e3e8251a0a90d48e3702ea0d2566"
 [[files]]
 file = "config/thirst/common.toml"
 hash = "a4235fbb8242facd800094f26bcae11cd6d8f51818ff5622f4bfa2b9bef6a831"
+
+[[files]]
+file = "defaultconfigs/gravestone-server.toml"
+hash = "62bbc115ac96b18454ae4b42111b67f11f5d029811fb737430ad4cfbbc24bc51"
+
+[[files]]
+file = "defaultconfigs/hourglass-server.toml"
+hash = "664a93e0831c69ec0ce64ce5138b373263d35bd9a0ab0bd3c37951dd585872a3"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
