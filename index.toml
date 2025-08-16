@@ -89,6 +89,10 @@ file = "config/farmersdelight-common.toml"
 hash = "d42ecc74db51fd5a62df84456b596d1ce0b8b6f7ae43f65b4ca3b97c045b53cc"
 
 [[files]]
+file = "config/globalgamerules-common.toml"
+hash = "521a5f4942319b096a03c8b6120a3f8774c8b396f7a22ed9ff5e3ff153fa2b5d"
+
+[[files]]
 file = "config/hardcorerevival-common.toml"
 hash = "41796cde1db55a6e5bb574b9d96a4171cc67a5d839719c43ca2fbdc75207eb39"
 
@@ -455,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-simple-ore-doubling.pw.toml"
-hash = "55d89b9ec28f18b785cb2a3b7ec9a525e87913bdef0470755850f1dbd0341f55"
+hash = "0b55929dcad1e93debfa25c37c5cb68c372e94776bad75aff0c7c57af26181ee"
 metafile = true
 
 [[files]]
