@@ -134,7 +134,7 @@ hash = "324f15d91b914dedf712acbb4e176dd475bb059f3dca7debad5ee2b5ce167ea1"
 
 [[files]]
 file = "config/seasonhud-client.toml"
-hash = "67b66978abc298c0db6cf9f759686c3785012a8ec3606cc50196075e0e158577"
+hash = "be94e2d89300c64c9b2ae854b1592313d2867b4d47422ac18ffa9c3632fe07e7"
 
 [[files]]
 file = "config/securitycraft-client.toml"
@@ -1512,11 +1512,6 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
 hash = "02b97cecc535aefd6086c1d389b33181a87a4be4c628db64f316980ae2944010"
-metafile = true
-
-[[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "de4b3b898a16ed4d615cfce18ac872e6a963605d52072d290b495cdff160a34c"
 metafile = true
 
 [[files]]
