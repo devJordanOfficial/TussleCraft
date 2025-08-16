@@ -454,8 +454,8 @@ hash = "17f996634516fe8a9f0699d44ef0d9bfc3eea1edd01ae5ee866424f0f3fe2713"
 metafile = true
 
 [[files]]
-file = "mods/create-metalwork.pw.toml"
-hash = "b01040c5cef91d40b7bc98429dd07d61d788d638024311a22671b8dd1f8faf6e"
+file = "mods/create-simple-ore-doubling.pw.toml"
+hash = "55d89b9ec28f18b785cb2a3b7ec9a525e87913bdef0470755850f1dbd0341f55"
 metafile = true
 
 [[files]]
