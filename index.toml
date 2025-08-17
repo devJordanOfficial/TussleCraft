@@ -545,11 +545,6 @@ hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
 
 [[files]]
-file = "mods/creeper-no-break-blocks.pw.toml"
-hash = "3839f90c71328c9f3dc23aeed3088e41a8de361dbffb593a002df7568ed0c0a4"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "5cf8a06431f16a18dc468baae3fbdf17cc1d72b9697da58cb126342ed937aa59"
 metafile = true
@@ -657,6 +652,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
+metafile = true
+
+[[files]]
+file = "mods/environmental-creepers.pw.toml"
+hash = "e178150a9635ebac24563dbd8f83ed8c97490e720947c8d701a4552c1e189927"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Environmental Creepers"
+filename = "environmentalcreepers-fabric-1.20.1-1.6.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2tZXc39v/versions/FGH9OF8N/environmentalcreepers-fabric-1.20.1-1.6.0.jar"
+hash-format = "sha512"
+hash = "464e7aa5e1c91761485371a2d94b5d907e78bfc3b33529aafbc5ad0dd227f8d0e395033e82fa37d27ee513cb2e10654fcc6154a5682a8edf7224c3f36a9d9fce"
+
+[update]
+[update.modrinth]
+mod-id = "2tZXc39v"
+version = "FGH9OF8N"
