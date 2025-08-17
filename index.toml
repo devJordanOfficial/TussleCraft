@@ -130,7 +130,7 @@ hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
 file = "config/nmpvc-common.toml"
-hash = "982d0029a2eb72c94d7cb113b388f03eed81a1271ab979c2430e79bddd6e4f92"
+hash = "aee59e6402d3b17a560ede25f76a45a2449ac4e4f66a29a6b839fd7355ccf1d5"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "e935ff1a1378827c0bd1a702f51581aa765e63ffef23834ea9e1b2a81e0f84ad"
+hash = "a0e828588ac27e24adf6a3d70543b52e9162c7a492cc05af0f40c542b55353e0"
 metafile = true
 
 [[files]]
