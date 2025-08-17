@@ -130,7 +130,7 @@ hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
 file = "config/nmpvc-common.toml"
-hash = "ab1bc24d4e896de0240d0eea2db248284c5245296991b3e98e56b239545f45df"
+hash = "982d0029a2eb72c94d7cb113b388f03eed81a1271ab979c2430e79bddd6e4f92"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -512,11 +512,6 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "87be52b8aaa9864eab1ec2df8c862cd01a084989b07c4cdbfaa21c57a9a778a6"
-metafile = true
-
-[[files]]
-file = "mods/create-diesel-generators.pw.toml"
-hash = "d675e5c2b08df4fee40416e6320183a443a864f448594ffa0f02b8b396166369"
 metafile = true
 
 [[files]]
