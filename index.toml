@@ -134,7 +134,7 @@ hash = "982d0029a2eb72c94d7cb113b388f03eed81a1271ab979c2430e79bddd6e4f92"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "14baa6ba1a0e8cef1aeac186f8e3d90c602519a85351d8b4331757c591df31b2"
+hash = "81d38bcbd763a595c1759914411c2c597ad66a3595af0d7099fb4c4a42c84d5b"
 
 [[files]]
 file = "config/quark-common.toml"
