@@ -38,7 +38,7 @@ hash = "580988cacd29eb27492b226e18cf3f1ae66619d6a4398c61a3ad70af43d351e5"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "3db5d1ec9c8c37e6075f4d0b0715b37a975fd569096f0fb93505d94acfcb66f3"
+hash = "4335f96accf08c9d75aee394fa3653e8cc1860da1c79d5a3809034477f943172"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
@@ -130,7 +130,7 @@ hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
 file = "config/nmpvc-common.toml"
-hash = "d0cc0e21e17d66a8cbb4bd700188dbd1833224c306398ac42d1f14dd8d8877fb"
+hash = "ab1bc24d4e896de0240d0eea2db248284c5245296991b3e98e56b239545f45df"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -203,6 +203,11 @@ hash = "62bbc115ac96b18454ae4b42111b67f11f5d029811fb737430ad4cfbbc24bc51"
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "664a93e0831c69ec0ce64ce5138b373263d35bd9a0ab0bd3c37951dd585872a3"
+
+[[files]]
+file = "mods/adm-anticheat.pw.toml"
+hash = "95bf02e602f59dd686adcb06defdf0decaa5e2faf3f0bebd73ebe9d66c20098f"
+metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"

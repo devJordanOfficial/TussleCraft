@@ -1,0 +1,13 @@
+name = "ADM Anticheat"
+filename = "admanticheat-1.6.4-RELEASE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4524d0ed4ba6e536216ecaa03629392351e51425"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6879478
+project-id = 1272330
