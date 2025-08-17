@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/environmental-creepers.pw.toml"
-hash = "e178150a9635ebac24563dbd8f83ed8c97490e720947c8d701a4552c1e189927"
+hash = "56a6e604111b4f5d46e1015a2397260b7580f4bfc64bbf4de034caf2466d8300"
 metafile = true
 
 [[files]]
