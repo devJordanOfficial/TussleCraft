@@ -1685,6 +1685,10 @@ hash = "11753e7da05bc5a4cb037070281d1898b021f1d5419cb2c8477f960032b17c0f"
 metafile = true
 
 [[files]]
+file = "scripts/backpack-crafting.zs"
+hash = "ec26889475151359581f7279fed8f7c1630658e9d141b51cf4c0c0f3a1c89f3d"
+
+[[files]]
 file = "shaderpacks/iterationT 3.0.0 (Modified).zip.txt"
 hash = "83c53a7b4ca4f8af1289040a66afb68715ce7eedeb7eb16c00c485a7be5c2b8d"
 
