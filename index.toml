@@ -500,6 +500,11 @@ hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "747c0f7d0eb5bad1b8bbaef7ba9d6ae68774327d97c745664661eb0fde266c55"
+metafile = true
+
+[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "e6b58f23c741ff89b97cfab8242ad4f34d0b91082bb8d861b9f4ed08c9beece0"
 metafile = true

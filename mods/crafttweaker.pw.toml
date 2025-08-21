@@ -1,0 +1,13 @@
+name = "CraftTweaker"
+filename = "CraftTweaker-forge-1.20.1-14.0.58.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/BcGsQagt/CraftTweaker-forge-1.20.1-14.0.58.jar"
+hash-format = "sha512"
+hash = "44761abf348cf974f2e38d35074c447e245bb753909d6b8de22ed7b95331b867f34e2c6c25fb78c139b6c302927f5599d29eff688980ba318c1ba0564f8e984f"
+
+[update]
+[update.modrinth]
+mod-id = "Xg35A4rS"
+version = "BcGsQagt"
