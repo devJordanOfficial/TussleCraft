@@ -93,10 +93,6 @@ file = "config/emi.css"
 hash = "1b8cf21e9c434470f6dc2cfa5c9809ddd84e80898bfe87e21ccf9ece5c70d908"
 
 [[files]]
-file = "config/emi_loot_config.toml"
-hash = "7f12f6ee4ebf501e80b3530f017b19f9faa812fd8b87ffbb5ce7391cefea0c4d"
-
-[[files]]
 file = "config/enhancedai/Break Anger/break_anger_config.json"
 hash = "b5d138ded0fb3ff11b5d07198420bc7f24f9eaff6bc938f4b972bd788de8daee"
 
