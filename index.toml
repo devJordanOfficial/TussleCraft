@@ -134,7 +134,7 @@ hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
 file = "config/nmpvc-common.toml"
-hash = "265603e22edca74505fce579de7249e4ce86dfba939c97b6b82001a6d611a213"
+hash = "93d9c9cc0dc7bc26ca564de737b36d79827b39d6977c2510700ddf2f66ef2892"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "35547f679eb0eeac8c5158e49faea3b4ba99263bd6fd1cd27114a48dd6d3db9d"
+hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
 metafile = true
 
 [[files]]
