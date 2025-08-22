@@ -89,6 +89,14 @@ file = "config/embeddium-options.json"
 hash = "2d8964eb15458e3575ec8f407b6c088e3a0c89f262cb9084cfbc712edee851e9"
 
 [[files]]
+file = "config/emi.css"
+hash = "1b8cf21e9c434470f6dc2cfa5c9809ddd84e80898bfe87e21ccf9ece5c70d908"
+
+[[files]]
+file = "config/emi_loot_config.toml"
+hash = "7f12f6ee4ebf501e80b3530f017b19f9faa812fd8b87ffbb5ce7391cefea0c4d"
+
+[[files]]
 file = "config/enhancedai/Break Anger/break_anger_config.json"
 hash = "b5d138ded0fb3ff11b5d07198420bc7f24f9eaff6bc938f4b972bd788de8daee"
 
@@ -130,7 +138,7 @@ hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
 file = "config/nmpvc-common.toml"
-hash = "da6813953f43364be2b3a8b6db80db6bb6bd443d725fdce4391f70f8798da542"
+hash = "61fdc2dc8349aa94f0550c5ac134809559510168f1001abcb6d367fe7fd02023"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -143,10 +151,6 @@ hash = "3a9d27ddf80a1cf67e71bb1dd07654341eb94607cc5347ebafdb834f17b03e12"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "ba11f0ac1875308613419acdaec94d753f0f13ff735e1972b784b48572798a54"
-
-[[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "65d8ba51d9c22b2847de192e2edced46e687ea6b0b22439d7f34449b8b1a8233"
 
 [[files]]
 file = "config/seasonhud-client.toml"

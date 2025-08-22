@@ -1,12 +1,12 @@
 name = "TussleCraft"
 author = "devJordan"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fcb9495c5736175308a2bfe26b08ccad5422ea5d2e8e048483bdd48893d42771"
+hash = "913478819c7825226d92e720052a77207ac6d0b0cca10330839b4fdbe9eed1e3"
 
 [versions]
 forge = "47.4.0"
