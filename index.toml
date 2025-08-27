@@ -13,6 +13,10 @@ file = "config/LibertyVillagers.json"
 hash = "48fea50e6406cec7af938ebccfb24a9a870f3e52578838f500eec398c9b154c5"
 
 [[files]]
+file = "config/LootPlusConfig.toml"
+hash = "0b93c67e90b909cdb052ee5cf086785220d2e87b274c4a0649110f5912b8204d"
+
+[[files]]
 file = "config/alexsmobs.toml"
 hash = "98d79e57ba28faed11f67635763de3844624872b7d2a91affc6dcb309e30d2af"
 
@@ -134,7 +138,7 @@ hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
 file = "config/nmpvc-common.toml"
-hash = "392187467dfecef4be94c979655cc1256f4f9764a3c654a9231ebc6d903b36ff"
+hash = "d5764d90489c454f30d4ea51c3a7dead97ca257f5e4d1b7867dc41cfac8e71b6"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -203,6 +207,18 @@ hash = "62bbc115ac96b18454ae4b42111b67f11f5d029811fb737430ad4cfbbc24bc51"
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "664a93e0831c69ec0ce64ce5138b373263d35bd9a0ab0bd3c37951dd585872a3"
+
+[[files]]
+file = "kubejs/server_scripts/create-recipes.js"
+hash = "10263f9d438d2778ef9f135f27868f62c0ae5104dc33f628c40eeb82b5096582"
+
+[[files]]
+file = "kubejs/server_scripts/siege-workbench.js"
+hash = "f81e40bbc33e276690252638d48f8b4afd03dc3ac16cf20c038dd19221ff602f"
+
+[[files]]
+file = "kubejs/server_scripts/vanilla-recipes.js"
+hash = "4bc02ea2061620477f0af4becc5cf705ea4d37dce4daa8a2894a9f453ae282e3"
 
 [[files]]
 file = "mods/adm-anticheat.pw.toml"
@@ -1713,14 +1729,6 @@ metafile = true
 file = "resourcepacks/toms-create-storage.pw.toml"
 hash = "11753e7da05bc5a4cb037070281d1898b021f1d5419cb2c8477f960032b17c0f"
 metafile = true
-
-[[files]]
-file = "scripts/backpack-crafting.zs"
-hash = "ec26889475151359581f7279fed8f7c1630658e9d141b51cf4c0c0f3a1c89f3d"
-
-[[files]]
-file = "scripts/blocks-need-drops.zs"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "shaderpacks/iterationT 3.0.0 (Modified).zip.txt"
