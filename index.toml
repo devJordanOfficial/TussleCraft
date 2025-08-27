@@ -1065,6 +1065,11 @@ hash = "41a036a86db9c0cab20b9b8956b0749bdfea13942d6ca00668304e5d0731166f"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "dac76b57fd114d37956011ad054aab6b5e86f1fd9e308da534bff0ca69a78989"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
 metafile = true
