@@ -555,6 +555,11 @@ hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
 metafile = true
 
 [[files]]
+file = "mods/createtweaker.pw.toml"
+hash = "fe54ee2fff588885e62f4895806efa81408aef7f514ed5818e8ad9338cafbe07"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
@@ -1000,6 +1005,11 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
+metafile = true
+
+[[files]]
 file = "mods/labels.pw.toml"
 hash = "7923eace31678f02b226afaff1840bca064c0fc8d3194e422a79783ebdb9ffbf"
 metafile = true
@@ -1332,6 +1342,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
 
 [[files]]
@@ -1702,6 +1717,10 @@ metafile = true
 [[files]]
 file = "scripts/backpack-crafting.zs"
 hash = "ec26889475151359581f7279fed8f7c1630658e9d141b51cf4c0c0f3a1c89f3d"
+
+[[files]]
+file = "scripts/blocks-need-drops.zs"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "shaderpacks/iterationT 3.0.0 (Modified).zip.txt"
