@@ -510,11 +510,6 @@ hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "747c0f7d0eb5bad1b8bbaef7ba9d6ae68774327d97c745664661eb0fde266c55"
-metafile = true
-
-[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "e6b58f23c741ff89b97cfab8242ad4f34d0b91082bb8d861b9f4ed08c9beece0"
 metafile = true
@@ -552,11 +547,6 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
-metafile = true
-
-[[files]]
-file = "mods/createtweaker.pw.toml"
-hash = "fe54ee2fff588885e62f4895806efa81408aef7f514ed5818e8ad9338cafbe07"
 metafile = true
 
 [[files]]
