@@ -355,6 +355,11 @@ hash = "b2aba59dc46a1c2155245c7980cd9222a3f3c3fc9a9438b9f2065ebd43cf3d21"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "aadf24204e7b76f8c91d1f1d89040ca15a218dc030315e32beedc57e7f1a415f"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
 metafile = true
@@ -925,11 +930,6 @@ hash = "fd2f81d06d23138e315a333ffc975ce8553a7d5d89e6d1bbbb11c7e9ddead2a6"
 metafile = true
 
 [[files]]
-file = "mods/hourglass.pw.toml"
-hash = "33c13017e0a59e5743ac644cf37496622a096c925b708e3bd39de676b1c2fc00"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
@@ -956,7 +956,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-snow.pw.toml"
-hash = "ac7cae24fcac0183430f948d4a3827bb30bb086e5d94f4a255afc5dfd6713371"
+hash = "b3d5281de05b55aed0aa0def6e75b79947efbaefbab56bdaebfa2e2948f7cb6c"
 metafile = true
 
 [[files]]
