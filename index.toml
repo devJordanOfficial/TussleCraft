@@ -142,7 +142,7 @@ hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
 file = "config/nmpvc-common.toml"
-hash = "ff93e5e50f48f5873eb6345470f4a19696380a9ea6341dd79a71bffe754c95d9"
+hash = "6af0cdc6d81fb864219c2b377bb0b3ae8ccc368e7b4f2ef12e8710b4cc853d97"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -214,7 +214,7 @@ hash = "664a93e0831c69ec0ce64ce5138b373263d35bd9a0ab0bd3c37951dd585872a3"
 
 [[files]]
 file = "kubejs/server_scripts/create-recipes.js"
-hash = "10263f9d438d2778ef9f135f27868f62c0ae5104dc33f628c40eeb82b5096582"
+hash = "2ce1012e7bbe3194122b3e3afe09a570cbbf6c946a6f2a396c3f9b7e453eb1a8"
 
 [[files]]
 file = "kubejs/server_scripts/siege-workbench.js"
@@ -571,11 +571,6 @@ metafile = true
 [[files]]
 file = "mods/create-trimmed.pw.toml"
 hash = "b349813927154f2bc111425dbad6f3553d41203994d297b967cf6671f386fad5"
-metafile = true
-
-[[files]]
-file = "mods/create-ultimate-factory.pw.toml"
-hash = "c03db408a055967ba95bdc3eccf8e4c9183c5aff1057b3902c6c4889f5cb46f4"
 metafile = true
 
 [[files]]
