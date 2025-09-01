@@ -214,7 +214,7 @@ hash = "664a93e0831c69ec0ce64ce5138b373263d35bd9a0ab0bd3c37951dd585872a3"
 
 [[files]]
 file = "kubejs/server_scripts/create-recipes.js"
-hash = "2ce1012e7bbe3194122b3e3afe09a570cbbf6c946a6f2a396c3f9b7e453eb1a8"
+hash = "5c4f8322be0914484029fcd7718cdc095c7f007325d4500ee98ca4ddce6f1750"
 
 [[files]]
 file = "kubejs/server_scripts/siege-workbench.js"
@@ -1046,6 +1046,11 @@ metafile = true
 [[files]]
 file = "mods/libertys-villagers.pw.toml"
 hash = "f447fdcdb7b21bad7caa050f3e481ed14608cf1c1f0df78524fa3863472618c5"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "94aa69e3f800f454553aa7f80b8e28a4751d58487775100fb60ae16bbd799259"
 metafile = true
 
 [[files]]

@@ -4,7 +4,7 @@ ServerEvents.recipes(event => {
 	event.recipes.create.compacting('minecraft:deepslate', [Fluid.lava(50), 'minecraft:cobblestone'])
 	event.recipes.create.compacting('minecraft:diamond', [Fluid.lava(100), Item.of('minecraft:coal_block', 12)]).heated()
 	event.recipes.create.compacting('minecraft:blaze_rod', [Fluid.lava(50), Item.of('minecraft:blaze_powder', 6)])
-	event.recipes.create.compacting('minecraft:calcite', ['minecraft:gravel', Item.of('minecraft:bonemeal', 3)])
+	event.recipes.create.compacting('minecraft:calcite', ['minecraft:gravel', Item.of('minecraft:bone_meal', 3)])
 	// Mixing
 	event.recipes.create.mixing('minecraft:andesite', [Fluid.water(250), 'minecraft:cobblestone', 'minecraft:gravel'])
 	event.recipes.create.mixing('minecraft:redstone', [Fluid.lava(50), 'minecraft:netherrack', 'minecraft:flint'])
@@ -15,7 +15,7 @@ ServerEvents.recipes(event => {
 	event.recipes.create.haunting('minecraft:netherrack', 'minecraft:basalt')
 	event.recipes.create.haunting('minecraft:crying_obsidian', 'minecraft:obsidian')
 	event.recipes.create.haunting('minecraft:coal', 'minecraft:charcoal')
-	event.recipes.create.haunting('minecraft:wither_rose', 'minecraft:rose')
+	event.recipes.create.haunting('minecraft:wither_rose', 'minecraft:poppy')
 	// Crushing
-	event.recipes.create.crushing([Item.of('minecraft:quartz').withChange(0.12), Item.of('minecraft:lapis_lazuli').withChange(0.08)], 'create:limestone')
+	event.recipes.create.crushing([Item.of('minecraft:quartz').withChance(0.12), Item.of('minecraft:lapis_lazuli').withChance(0.08)], 'create:limestone')
 })
