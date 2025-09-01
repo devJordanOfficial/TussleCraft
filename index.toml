@@ -564,11 +564,6 @@ hash = "c670ae9055f10dafb61fe340583c361f4c41ed45671c9440bae1f0696b47252a"
 metafile = true
 
 [[files]]
-file = "mods/create-high-pressure.pw.toml"
-hash = "b7ed2013129e724d86007de3aa0454c76e0fdafd7eb1c39131199da157af6259"
-metafile = true
-
-[[files]]
 file = "mods/create-simple-ore-doubling.pw.toml"
 hash = "0b55929dcad1e93debfa25c37c5cb68c372e94776bad75aff0c7c57af26181ee"
 metafile = true
@@ -576,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/create-trimmed.pw.toml"
 hash = "b349813927154f2bc111425dbad6f3553d41203994d297b967cf6671f386fad5"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "c03db408a055967ba95bdc3eccf8e4c9183c5aff1057b3902c6c4889f5cb46f4"
 metafile = true
 
 [[files]]
