@@ -218,7 +218,7 @@ hash = "f81e40bbc33e276690252638d48f8b4afd03dc3ac16cf20c038dd19221ff602f"
 
 [[files]]
 file = "kubejs/server_scripts/squid-drops.js"
-hash = "a6d5854402d68b8dd693a8a5755e8c1e83fb9289196e03b3979bd1e0edd796fb"
+hash = "e7a596bd9aaf5af63562fc4a1e42756ddf9cf2c46ddae020e7797ac072556020"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla-recipes.js"
