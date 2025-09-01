@@ -74,7 +74,7 @@ hash = "d7de9d6ea078372c4c37b8ab5b21f94517b87661b37c09a4aa2b3e567da302de"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "dcfe351e52d05e44baa67f51854a1b123fdb100bccaa28a2f5d56910897cb340"
+hash = "cf75b9bdc9967cc132b5a82c86f82ab8e481d8acb8d2c27faea898ece57ab577"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -138,7 +138,7 @@ hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
 file = "config/nmpvc-common.toml"
-hash = "d5764d90489c454f30d4ea51c3a7dead97ca257f5e4d1b7867dc41cfac8e71b6"
+hash = "023ccd9d818b51a6e7497a68d10434539314dae3bf52f469badff80045c27660"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -215,6 +215,10 @@ hash = "10263f9d438d2778ef9f135f27868f62c0ae5104dc33f628c40eeb82b5096582"
 [[files]]
 file = "kubejs/server_scripts/siege-workbench.js"
 hash = "f81e40bbc33e276690252638d48f8b4afd03dc3ac16cf20c038dd19221ff602f"
+
+[[files]]
+file = "kubejs/server_scripts/squid-drops.js"
+hash = "a6d5854402d68b8dd693a8a5755e8c1e83fb9289196e03b3979bd1e0edd796fb"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla-recipes.js"
@@ -548,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "c670ae9055f10dafb61fe340583c361f4c41ed45671c9440bae1f0696b47252a"
+metafile = true
+
+[[files]]
+file = "mods/create-high-pressure.pw.toml"
+hash = "b7ed2013129e724d86007de3aa0454c76e0fdafd7eb1c39131199da157af6259"
 metafile = true
 
 [[files]]
