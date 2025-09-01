@@ -955,11 +955,6 @@ hash = "06d89bbcca9f454369e193c6f042a8931d40d57c53ae9aff2f7a25c106c70f5d"
 metafile = true
 
 [[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "ac7cae24fcac0183430f948d4a3827bb30bb086e5d94f4a255afc5dfd6713371"
-metafile = true
-
-[[files]]
 file = "mods/in-control.pw.toml"
 hash = "cd0eccae2401b54d1e36fbdc3ae19ec7c51e5b7004e2a19cb4d17922f14735fe"
 metafile = true
