@@ -45,6 +45,10 @@ file = "config/badmobs-common.toml"
 hash = "4335f96accf08c9d75aee394fa3653e8cc1860da1c79d5a3809034477f943172"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "34c313afd5a62c86722ea58bd1cfac108197c0b997135127f815453063f65f91"
+
+[[files]]
 file = "config/bettermodsbutton-client.toml"
 hash = "961af5e291950199a51a0eda8d66c6d3ae504d8681a6ca4ea4c3c1edb1170d17"
 
@@ -138,7 +142,7 @@ hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
 file = "config/nmpvc-common.toml"
-hash = "023ccd9d818b51a6e7497a68d10434539314dae3bf52f469badff80045c27660"
+hash = "ff93e5e50f48f5873eb6345470f4a19696380a9ea6341dd79a71bffe754c95d9"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -215,10 +219,6 @@ hash = "10263f9d438d2778ef9f135f27868f62c0ae5104dc33f628c40eeb82b5096582"
 [[files]]
 file = "kubejs/server_scripts/siege-workbench.js"
 hash = "f81e40bbc33e276690252638d48f8b4afd03dc3ac16cf20c038dd19221ff602f"
-
-[[files]]
-file = "kubejs/server_scripts/squid-drops.js"
-hash = "e7a596bd9aaf5af63562fc4a1e42756ddf9cf2c46ddae020e7797ac072556020"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla-recipes.js"
