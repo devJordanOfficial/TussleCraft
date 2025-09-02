@@ -142,7 +142,7 @@ hash = "9cb9dc5ca127426bb782f2b9547a77377a0796654282ee552a1e1a20e06c223b"
 
 [[files]]
 file = "config/nmpvc-common.toml"
-hash = "6af0cdc6d81fb864219c2b377bb0b3ae8ccc368e7b4f2ef12e8710b4cc853d97"
+hash = "47954e96f857835e239c45fb21ea48dd2f355b990f6f49bf9eccc69b1d747122"
 
 [[files]]
 file = "config/parcool-client.toml"
