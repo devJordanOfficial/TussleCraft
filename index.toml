@@ -1054,6 +1054,11 @@ hash = "94aa69e3f800f454553aa7f80b8e28a4751d58487775100fb60ae16bbd799259"
 metafile = true
 
 [[files]]
+file = "mods/liquid-burner.pw.toml"
+hash = "0f2bdc73d4444398501b97a8417a8ad34ac216658a8bef555d11ec12bbabb38a"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "6aa6897a3227a41db128aef512ad6e6cf33e3c3b806973f94bf63a2eed69f4df"
 metafile = true
