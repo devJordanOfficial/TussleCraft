@@ -614,8 +614,8 @@ hash = "b64e0bcd7299d5f773d7e7937d141c1c55803a3077de6f242db972853b11990b"
 metafile = true
 
 [[files]]
-file = "mods/daycounter.pw.toml"
-hash = "73e33d04feb1c51bbf30e0cb085f4b4d4675a1ce48e3673ffac784b0807791f8"
+file = "mods/day-counter-.pw.toml"
+hash = "6945b51371af3e85c720979c5310dfbceca60d5758301b73c5bc02b30778de44"
 metafile = true
 
 [[files]]
@@ -1029,6 +1029,11 @@ hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "2077e6d69a10bbe27b402aa52e5a21ba1abec55b7b573e173e703908a85518ad"
+metafile = true
+
+[[files]]
 file = "mods/labels.pw.toml"
 hash = "7923eace31678f02b226afaff1840bca064c0fc8d3194e422a79783ebdb9ffbf"
 metafile = true
@@ -1056,6 +1061,11 @@ metafile = true
 [[files]]
 file = "mods/lighty.pw.toml"
 hash = "94aa69e3f800f454553aa7f80b8e28a4751d58487775100fb60ae16bbd799259"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
@@ -1409,11 +1419,6 @@ hash = "7e338d93ef72c503f52217c735205e4c588a30809a137dd427e83841747ec9f4"
 metafile = true
 
 [[files]]
-file = "mods/security-craft.pw.toml"
-hash = "e1ba99a16736c1f1cf3f88f5f88be42b529922a066ca4c1f67384c5b69d37a4b"
-metafile = true
-
-[[files]]
 file = "mods/separatedleaves.pw.toml"
 hash = "4a6bc910264e00d9dc48a8c04a440c30cca7221d88c68b6ccfe9ba9c4fe35389"
 metafile = true
@@ -1536,11 +1541,6 @@ metafile = true
 [[files]]
 file = "mods/sweetys-horse-armor-tweaks.pw.toml"
 hash = "62f418bb18d4afadc72efe74e241dacbb57d7412b8f9c6427c73e72c7b863985"
-metafile = true
-
-[[files]]
-file = "mods/table-top-craft.pw.toml"
-hash = "d8a0355cf4da9ce96dadbec3fa67a0ffa81132c72c3184f03b6bd30cb2669e08"
 metafile = true
 
 [[files]]
