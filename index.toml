@@ -614,6 +614,11 @@ hash = "b64e0bcd7299d5f773d7e7937d141c1c55803a3077de6f242db972853b11990b"
 metafile = true
 
 [[files]]
+file = "mods/daycounter.pw.toml"
+hash = "73e33d04feb1c51bbf30e0cb085f4b4d4675a1ce48e3673ffac784b0807791f8"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "dc23ac7c75b3f33b93f5725c9d6cfb2e62575550f2b8b01683397e35ad1a3955"
 metafile = true
