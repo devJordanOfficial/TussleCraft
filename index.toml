@@ -62,7 +62,7 @@ hash = "19a88c92bb13068ac8c45c1bf4ed656a51d974f9c35734e4a03d1e0b1990f095"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "5af865157a6521829d63588a2fe33346ae5338dfb5703695165531a449983c25"
+hash = "4a5ff7bf3c3293a60b315c396105fca597a7d2cb45bfc37ac5744ca34e7f6cda"
 
 [[files]]
 file = "config/coldsweat/client.toml"
