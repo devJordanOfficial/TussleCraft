@@ -1564,6 +1564,11 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
+file = "mods/the-counter-mod.pw.toml"
+hash = "544d4ed402889b4492ad597a2130c7eaef72552b59ce64df211cca62777e3ef7"
+metafile = true
+
+[[files]]
 file = "mods/thirst-was-taken.pw.toml"
 hash = "d7df242deaaff7012e76a18e240e32467172ef4f9c010526ce4e01920acdb669"
 metafile = true

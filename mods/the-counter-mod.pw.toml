@@ -1,0 +1,13 @@
+name = "Day and Death Counter"
+filename = "countermod-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kjog9sCM/versions/YxQ55ZM7/countermod-2.0.4.jar"
+hash-format = "sha512"
+hash = "7c41ca2fd2931376850de603fae852f49c6147707153891b48eff22cd1fe893f059fdf849d5fb0493766550d583855700a21338c865cb25cbaf814e6ff346274"
+
+[update]
+[update.modrinth]
+mod-id = "kjog9sCM"
+version = "YxQ55ZM7"
