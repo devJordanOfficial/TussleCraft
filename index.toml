@@ -614,11 +614,6 @@ hash = "b64e0bcd7299d5f773d7e7937d141c1c55803a3077de6f242db972853b11990b"
 metafile = true
 
 [[files]]
-file = "mods/day-counter-.pw.toml"
-hash = "6945b51371af3e85c720979c5310dfbceca60d5758301b73c5bc02b30778de44"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "dc23ac7c75b3f33b93f5725c9d6cfb2e62575550f2b8b01683397e35ad1a3955"
 metafile = true
@@ -726,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "a2daf59835c14f2c37ef6494ff7faf6cbcad02b06c38478ed0dca4085046da41"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "36c887897d3e8781cc93f79932ae78d7c5f8a1936d76b158cbcc4af0d47ea68d"
 metafile = true
 
 [[files]]
