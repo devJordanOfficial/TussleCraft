@@ -589,13 +589,13 @@ hash = "5cf8a06431f16a18dc468baae3fbdf17cc1d72b9697da58cb126342ed937aa59"
 metafile = true
 
 [[files]]
-file = "mods/cryonicconfig.pw.toml"
-hash = "5ba1f7a67357718a3e683cb741d52deaa6017e4627380ba3614747ad13bfffb5"
+file = "mods/croptopia.pw.toml"
+hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
 metafile = true
 
 [[files]]
-file = "mods/cultural-delights.pw.toml"
-hash = "16adcd779e8cf3e206f1e42b2ce1cce18aaf2b786257cb04eafefbe5991a8345"
+file = "mods/cryonicconfig.pw.toml"
+hash = "5ba1f7a67357718a3e683cb741d52deaa6017e4627380ba3614747ad13bfffb5"
 metafile = true
 
 [[files]]
@@ -719,6 +719,11 @@ hash = "56a6e604111b4f5d46e1015a2397260b7580f4bfc64bbf4de034caf2466d8300"
 metafile = true
 
 [[files]]
+file = "mods/epherolib.pw.toml"
+hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
+metafile = true
+
+[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "a2daf59835c14f2c37ef6494ff7faf6cbcad02b06c38478ed0dca4085046da41"
 metafile = true
@@ -741,6 +746,11 @@ metafile = true
 [[files]]
 file = "mods/fantasy_armor.pw.toml"
 hash = "c5069c5408626f51410f0768f7dd73ab9b989add693c6e5a9e029013a56066d8"
+metafile = true
+
+[[files]]
+file = "mods/farmers-croptopia.pw.toml"
+hash = "1f8135b50b3047650342ccafcc67e6748b1ad56271110085a3b0b1b22814e66c"
 metafile = true
 
 [[files]]
@@ -841,6 +851,26 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "66206b66ab8d3a44fc67d44640398466630e18d02d3efdeb46f3134022284eb6"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "39e65bf3c47517cdb2f9b4b49c6632dd56db797744faaf8b1a3726b1b95aacb4"
 metafile = true
 
 [[files]]
