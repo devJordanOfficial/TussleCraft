@@ -1,0 +1,24 @@
+
+#Counter Mod Client Settings
+[client]
+
+	[client.visibility]
+		#Show the counter overlay?
+		showOverlay = true
+		#Show the days counter?
+		showDays = true
+		#Show the deaths counter?
+		showDeaths = false
+		#Show the time counter?
+		showTime = false
+
+	[client.appearance]
+		#Position of the overlay on the screen.
+		#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, TOP_LEFT_HORIZONTAL, TOP_RIGHT_HORIZONTAL, BOTTOM_LEFT_HORIZONTAL, BOTTOM_RIGHT_HORIZONTAL, TOP_CENTER_HORIZONTAL, BOTTOM_CENTER_HORIZONTAL, MIDDLE_LEFT, MIDDLE_RIGHT
+		overlayPosition = "BOTTOM_RIGHT_HORIZONTAL"
+		#Scale of the overlay. (0.5 = 50%, 1.0 = 100%, 1.5 = 150%)
+		#Range: 0.25 ~ 2.0
+		overlayScale = 0.75
+		#Custom X,Y offsets for each overlay position. Do not edit manually unless you know what you are doing.
+		positionOffsets = "TOP_LEFT:0,0"
+

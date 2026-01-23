@@ -81,6 +81,10 @@ file = "config/combatnouveau-server.toml"
 hash = "cf75b9bdc9967cc132b5a82c86f82ab8e481d8acb8d2c27faea898ece57ab577"
 
 [[files]]
+file = "config/countermod-client.toml"
+hash = "c86bbc5bb9ee9e351ff8ba9c2fbc7adbeaf9691566e49f19602201dd06a48889"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "30e115be3b0c42c3d788be1c211cdbd56cc64cb49a67d22df793052260eed550"
 
